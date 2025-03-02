@@ -3,9 +3,9 @@
 Lightweight and effortless status tracker for the **Namada Ecosystem**. It continuously monitors key components, with results stored in this repository. Currently tracking:
 - [namada-interface](https://github.com/anoma/namada-interface) (Namadillo)
 - [namada-indexer](https://github.com/anoma/namada-indexer)
-- *[namada-masp-indexer](https://github.com/anoma/namada-masp-indexer) soon...*
+- *[namada-masp-indexer](https://github.com/anoma/namada-masp-indexer) and [undexer](https://github.com/hackbg/undexer) will follow soon...*
 
-The [namada-masp-indexer](https://github.com/anoma/namada-masp-indexer) currently doesn't provide a version API endpoint. You can follow the progress here: [feat: add service version to /health endpoint #42](https://github.com/anoma/namada-masp-indexer/issues/42).
+The [namada-masp-indexer](https://github.com/anoma/namada-masp-indexer) currently doesn't provide a version API endpoint. You can follow the progress of a feature request here: [feat: add service version to /health endpoint #42](https://github.com/anoma/namada-masp-indexer/issues/42). A similar feature request has been submitted for the undexer, which you can check out here: [feat: add service version and new endpoint /health endpoint](https://github.com/hackbg/undexer/issues/19).
 
 | Network | JSON | Markdown |
 |-|-|-|
