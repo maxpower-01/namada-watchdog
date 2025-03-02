@@ -47,7 +47,6 @@ def get_interface_version(url):
 
 def update_status(network):
     status = {
-        "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC"),
         "network": network,
         "interface": [],
         "indexer": []

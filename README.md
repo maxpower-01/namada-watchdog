@@ -1,4 +1,5 @@
 # 🟡 namada-watchdog
+
 Lightweight and effortless status tracker for the **Namada Ecosystem**. It continuously monitors key components, with results stored in this repository. Currently tracking:
 - [namada-interface](https://github.com/anoma/namada-interface) (Namadillo)
 - [namada-indexer](https://github.com/anoma/namada-indexer)
@@ -19,3 +20,9 @@ The [namada-masp-indexer](https://github.com/anoma/namada-masp-indexer) currentl
 - The action fetches the latest component lists from [Namada Ecosystem](https://github.com/Luminara-Hub/namada-ecosystem/).
 - It queries component endpoints and compares versions with the latest official releases.
 - The results are stored and **automatically updated** in this repository.
+
+## ⏱️ Latest Workflow Run
+
+![GitHub Workflow Status](https://github.com/maxpower-01/namada-watchdog/actions/workflows/watchdog.yml/badge.svg)
+
+To check the **latest update** and the **status** of the workflow, navigate to [Actions](../../actions). You will see a list of recent workflow runs. The timestamp and status are shown.

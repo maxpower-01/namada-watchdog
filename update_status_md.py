@@ -62,8 +62,6 @@ def update_status_md(network):
 
     md_content = f"""# 🟡 namada-watchdog - Status: {network.capitalize()}
 
-_Last updated: {status.get('updated_at', 'Unknown')}_
-
 ## 🔥 Latest Releases
 - Interface (Namadillo): {latest_versions['interface']}
 - Indexer: {latest_versions['indexer']}
