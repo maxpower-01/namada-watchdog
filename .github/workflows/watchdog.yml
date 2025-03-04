@@ -3,7 +3,7 @@ name: namada-watchdog 🐶
 on:
   schedule:
     - cron: '0 0 * * *'  # Midnight UTC
-    - cron: '12 0 * * *' # Noon UTC
+    - cron: '0 12 * * *' # Noon UTC
   workflow_dispatch:
 
 permissions:
