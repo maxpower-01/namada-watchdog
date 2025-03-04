@@ -11,7 +11,7 @@
 | Sproutstake | oneplus | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | Knowable | spork \| knowable | 💀 | n/a |
 | Citizen Web3 | alibabaedge, serejandmyself_citizenweb3 | 💀 | ⚠️ 2.1.0 |
-| deNodes | bombermine | ⚠️ 1.12.1 | ⚠️ 2.1.0 |
+| deNodes | bombermine | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | max-03 | power542 | 🎉 1.15.1 | 🎉 2.2.0 |
 | TuDudes | sirouk | 💀 | n/a |
 | MekongLabs | nguyenthenguyen | ⚠️ 1.14.0 | n/a |

@@ -8,14 +8,14 @@
 | Team | Discord | Interface | Indexer |
 |------|---------|-----------|---------|
 | TuDudes | sirouk | 🎉 1.15.1 | ⚠️ 2.1.0 |
-| 5ElementsNodes | h3ll0_friend | ⚠️ 1.15.0 | ⚠️ 2.0.1 |
+| 5ElementsNodes | h3ll0_friend | 🎉 1.15.1 | ⚠️ 2.0.1 |
 |  | hadesguard99 | 🎉 1.15.1 | n/a |
-| MELLIFERA | ruslan_mellifera | ⚠️ 1.13.0 | ⚠️ 2.1.0 |
-| deNodes | bombermine | 🎉 1.15.1 | ⚠️ 2.0.1 |
+| MELLIFERA | ruslan_mellifera | 🎉 1.15.1 | ⚠️ 2.0.1 |
+| deNodes | bombermine | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | Palamar | pa1amar | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | StakeUp | landeros | ⚠️ 1.12.1 | ⚠️ 2.1.0 |
 | Citizen Web3 | alibabaedge, serejandmyself_citizenweb3 | 🎉 1.15.1 | ⚠️ 2.1.0 |
-| Stake&Relax 🦥 | manueldb2 | 💀 | ⚠️ 2.1.0 |
+| Stake&Relax 🦥 | manueldb2 | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | CroutonDigital | crouton.digital | 🎉 1.15.1 | ⚠️ 2.0.1 |
 | EmberStake | 4rash | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | Nodes.Guru | 0xan_nodes_guru | 🎉 1.15.1 | ⚠️ 2.1.0 |
