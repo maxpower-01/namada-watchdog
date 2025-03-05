@@ -15,9 +15,9 @@
 | Palamar | pa1amar | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | StakeUp | landeros | ⚠️ 1.12.1 | ⚠️ 2.1.0 |
 | Citizen Web3 | alibabaedge, serejandmyself_citizenweb3 | 🎉 1.15.1 | ⚠️ 2.1.0 |
-| Stake&Relax 🦥 | manueldb2 | 🎉 1.15.1 | ⚠️ 2.1.0 |
+| Stake&Relax 🦥 | manueldb2 | 💀 | ⚠️ 2.1.0 |
 | CroutonDigital | crouton.digital | 🎉 1.15.1 | ⚠️ 2.0.1 |
-| EmberStake | 4rash | 🎉 1.15.1 | ⚠️ 2.1.0 |
+| EmberStake | 4rash | 🎉 1.15.1 | ⚠️ 2.0.1 |
 | Nodes.Guru | 0xan_nodes_guru | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | shield-crypto | scaniashieldcrypto | 🎉 1.15.1 | 🎉 2.2.0 |
 | L0vd | jango_l0vd | 🎉 1.15.1 | 🎉 2.2.0 |
@@ -34,5 +34,5 @@
 | VallidatorVN | validatorvn | n/a | 💀 |
 | Architect Nodes | architectnodes | n/a | 💀 |
 | KonsorTech | konsortech | n/a | 💀 |
-| P2P.org | fedorly | n/a | ⚠️ 1.1.6 |
+| P2P.org | fedorly | n/a | 💀 |
 | Coverlet | leongameon | n/a | 💀 |
