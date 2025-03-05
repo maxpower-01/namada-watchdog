@@ -20,7 +20,7 @@
 | EmberStake | 4rash | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | Nodes.Guru | 0xan_nodes_guru | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | shield-crypto | scaniashieldcrypto | 🎉 1.15.1 | 🎉 2.2.0 |
-| L0vd | jango_l0vd | 💀 | 🎉 2.2.0 |
+| L0vd | jango_l0vd | 🎉 1.15.1 | 🎉 2.2.0 |
 | Validatus | validatus.com | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | OriginStake | mrspir | 🎉 1.15.1 | ⚠️ 2.1.0 |
 | Grand Valley | baconvalley | 💀 | ⚠️ 2.0.1 |
