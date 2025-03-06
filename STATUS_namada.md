@@ -34,5 +34,5 @@
 | VallidatorVN | validatorvn | n/a | 💀 |
 | Architect Nodes | architectnodes | n/a | 💀 |
 | KonsorTech | konsortech | n/a | 💀 |
-| P2P.org | fedorly | n/a | 💀 |
+| P2P.org | fedorly | n/a | ⚠️ 1.1.6 |
 | Coverlet | leongameon | n/a | 💀 |
