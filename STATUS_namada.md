@@ -18,7 +18,7 @@
 | Stake&Relax 🦥 | manueldb2 | ⚠️ 1.15.1  [[>]](https://namadillo.stakeandrelax.net) | 🎉 2.3.0  [[>]](https://namada-indexer.stakeandrelax.net/health) |
 | CroutonDigital | crouton.digital | ⚠️ 1.15.1  [[>]](https://namadillo.crouton.digital) | 🎉 2.3.0  [[>]](https://namada-mainnet-indexer.crouton.digital/health) |
 | EmberStake | 4rash | 🎉 1.16.0  [[>]](https://namadillo.emberstake.xyz) | 🎉 2.3.0  [[>]](https://namada-idx.emberstake.xyz/health) |
-| Nodes.Guru | 0xan_nodes_guru | ⚠️ 1.15.1  [[>]](https://namada-interface.nodes.guru) | 🎉 2.3.0  [[>]](https://namada-indexer.nodes.guru/health) |
+| Nodes.Guru | 0xan_nodes_guru | 🎉 1.16.0  [[>]](https://namada-interface.nodes.guru) | 🎉 2.3.0  [[>]](https://namada-indexer.nodes.guru/health) |
 | shield-crypto | scaniashieldcrypto | 🎉 1.16.0  [[>]](https://namadillo.shield-crypto.com/) | 🎉 2.3.0  [[>]](https://namada-indexer.shield-crypto.com/health) |
 | L0vd | jango_l0vd | 🎉 1.16.0  [[>]](https://namadillo.l0vd.com/) | 🎉 2.3.0  [[>]](https://namada-mainnet-indexer.rpc.l0vd.com/health) |
 | Validatus | validatus.com | ⚠️ 1.15.1  [[>]](https://namadillo.namada.validatus.com/) | ⚠️ 2.1.0  [[>]](https://indexer.namada.validatus.com/health) |
