@@ -47,10 +47,22 @@ def process_status_data(status, latest_versions):
         for item in status.get(category, []):
             team = item.get("team", "n/a")
             if team not in teams:
-                teams[team] = {"discord": item.get("discord", "n/a").replace("|", "\\|"), "interface": "n/a", "indexer": "n/a"}
-            version = item.get("version", "unavailable")
-            emoji = "🎉" if parse_version(version) == parse_version(latest_versions[category]) else "⚠️"
-            teams[team][category] = f"{emoji} {version}" if version != "unavailable" else "💀"
+                teams[team] = {
+                    "discord": re.sub(r'[,;]+', '<br>', item.get("discord", "n/a").replace("|", "\\|")),
+                    "interface": "n/a",
+                    "indexer": "n/a"
+                }
+            
+            version, url = item.get("version", "unavailable"), item.get("url", "")
+
+            if version != "unavailable":
+                url = url.rstrip("/") + "/health" if category == "indexer" and url else url
+                link = f" [[>]]({url})" if url else ""
+                emoji = "🎉" if parse_version(version) == parse_version(latest_versions[category]) else "⚠️"
+                teams[team][category] = f"{emoji} {version} {link}"
+            else:
+                teams[team][category] = "💀"
+    
     return teams
 
 def update_status_md(network):
@@ -68,7 +80,7 @@ def update_status_md(network):
 
 ## {network.capitalize()}
 | Team | Discord | Interface | Indexer |
-|------|---------|-----------|---------|
+|-|-|-|-|
 """
     md_content += "\n".join(f"| {t} | {d['discord']} | {d['interface']} | {d['indexer']} |" for t, d in teams.items())
 
