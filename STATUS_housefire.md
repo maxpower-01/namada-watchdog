@@ -14,7 +14,7 @@
 | deNodes | bombermine | 🎉 1.16.0  [[>]](https://namadillo-housefire.denodes.xyz) | 🎉 2.3.0  [[>]](https://namada-housefire-indexer.denodes.xyz/health) |
 | max-03 | power542 | 🎉 1.16.0  [[>]](https://namadillo.housefire.max-03.xyz) | ⚠️ 2.2.0  [[>]](https://indexer.housefire.max-03.xyz/health) |
 | TuDudes | sirouk | ⚠️ 1.15.1  [[>]](https://interface.housefire.tududes.com) | n/a |
-| MekongLabs | nguyenthenguyen | ⚠️ 1.15.1  [[>]](https://namadillo-housefire.pwa.mekonglabs.xyz/) | n/a |
+| MekongLabs | nguyenthenguyen | 🎉 1.16.0  [[>]](https://namadillo-housefire.pwa.mekonglabs.xyz/) | n/a |
 | ValidatorVN | validatorvn | n/a | 💀 |
 | OriginStake | mrspir | n/a | 💀 |
 | Coverlet | leongameon | n/a | 💀 |
