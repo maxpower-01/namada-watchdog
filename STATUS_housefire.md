@@ -18,3 +18,4 @@
 | ValidatorVN | validatorvn | n/a | 💀 |
 | OriginStake | mrspir | n/a | 💀 |
 | Coverlet | leongameon | n/a | 💀 |
+| papadritta | papadritta | n/a | 💀 |

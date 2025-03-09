@@ -9,8 +9,9 @@
 |-|-|-|-|
 | TuDudes | sirouk | 🎉 1.16.0  [[>]](https://interface.namada.tududes.com/) | 🎉 2.3.0  [[>]](https://indexer.namada.tududes.com/health) |
 | 5ElementsNodes | h3ll0_friend | 🎉 1.16.0  [[>]](https://namadillo.5elementsnodes.com/) | 🎉 2.3.0  [[>]](https://index-namada.5elementsnodes.com/health) |
-|  | hadesguard99 | 🎉 1.16.0  [[>]](https://namada-interface.sproutstake.space/) | n/a |
-| MELLIFERA | ruslan_mellifera | ⚠️ 1.15.1  [[>]](https://namadillo.mellifera.network) | 🎉 2.3.0  [[>]](https://namada-mainnet-indexer.mellifera.network/health) |
+| Hadesguard | hadesguard99 | 🎉 1.16.0  [[>]](https://interface.hadesguard.tech) | n/a |
+| Sproutstake | oneplus | 🎉 1.16.0  [[>]](https://namada-interface.sproutstake.space/) | n/a |
+| MELLIFERA | ruslan_mellifera | 🎉 1.16.0  [[>]](https://namadillo.mellifera.network) | 🎉 2.3.0  [[>]](https://namada-mainnet-indexer.mellifera.network/health) |
 | deNodes | bombermine | 🎉 1.16.0  [[>]](https://namadillo.denodes.xyz) | 🎉 2.3.0  [[>]](https://namada-indexer.denodes.xyz/health) |
 | Palamar | pa1amar | ⚠️ 1.15.1  [[>]](https://namada-interface.palamar.io) | 🎉 2.3.0  [[>]](https://namada-indexer.palamar.io/health) |
 | StakeUp | landeros | 🎉 1.16.0  [[>]](https://namadillo.namada.stakeup.tech) | 🎉 2.3.0  [[>]](https://indexer.namada.stakeup.tech/health) |
@@ -21,7 +22,7 @@
 | Nodes.Guru | 0xan_nodes_guru | 🎉 1.16.0  [[>]](https://namada-interface.nodes.guru) | 🎉 2.3.0  [[>]](https://namada-indexer.nodes.guru/health) |
 | shield-crypto | scaniashieldcrypto | 🎉 1.16.0  [[>]](https://namadillo.shield-crypto.com/) | 🎉 2.3.0  [[>]](https://namada-indexer.shield-crypto.com/health) |
 | L0vd | jango_l0vd | 🎉 1.16.0  [[>]](https://namadillo.l0vd.com/) | 🎉 2.3.0  [[>]](https://namada-mainnet-indexer.rpc.l0vd.com/health) |
-| Validatus | validatus.com | ⚠️ 1.15.1  [[>]](https://namadillo.namada.validatus.com/) | ⚠️ 2.1.0  [[>]](https://indexer.namada.validatus.com/health) |
+| Validatus | validatus.com | 🎉 1.16.0  [[>]](https://namadillo.namada.validatus.com/) | 🎉 2.3.0  [[>]](https://indexer.namada.validatus.com/health) |
 | OriginStake | mrspir | 🎉 1.16.0  [[>]](https://app.namada.cc) | ⚠️ 2.1.0  [[>]](https://namada-indexer-01.originstake.com/health) |
 | Grand Valley | baconvalley | 💀 | 🎉 2.3.0  [[>]](https://indexer-mainnet-namada.grandvalleys.com/health) |
 | MurphyNode | lyeoeon | 🎉 1.16.0  [[>]](https://namadillo.murphynode.net/) | 🎉 2.3.0  [[>]](https://indexer.namada.murphynode.net/health) |
