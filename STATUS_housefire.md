@@ -15,7 +15,7 @@
 | max-03 | power542 | 🎉 1.16.0  [[>]](https://namadillo.housefire.max-03.xyz) | 🎉 2.3.0  [[>]](https://indexer.housefire.max-03.xyz/health) |
 | TuDudes | sirouk | 🎉 1.16.0  [[>]](https://interface.housefire.tududes.com) | n/a |
 | MekongLabs | nguyenthenguyen | 🎉 1.16.0  [[>]](https://namadillo-housefire.pwa.mekonglabs.xyz/) | n/a |
+| papadritta | papadritta | 🎉 1.16.0  [[>]](https://housefire.ui.papadritta.com) | 🎉 2.3.0  [[>]](https://housefire.indexer.papadritta.com/health) |
 | ValidatorVN | validatorvn | n/a | 💀 |
 | OriginStake | mrspir | n/a | 💀 |
 | Coverlet | leongameon | n/a | 💀 |
-| papadritta | papadritta | n/a | 💀 |

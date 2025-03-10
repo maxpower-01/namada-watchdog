@@ -29,6 +29,7 @@
 | itrocket | itrocket | 🎉 1.16.0  [[>]](https://namadillo.itrocket.net/) | 🎉 2.3.0  [[>]](https://namada-mainnet-indexer.itrocket.net/health) |
 | LoserBoy | tonymarma | 🎉 1.16.0  [[>]](https://interface.loserboy.xyz) | n/a |
 | MekongLabs | nguyenthenguyen | 🎉 1.16.0  [[>]](https://namadillo.pwa.mekonglabs.xyz/) | n/a |
+| max-02 | power542 | 🎉 1.16.0  [[>]](https://namadillo.net) | n/a |
 | Wavefive | cryptovestor | n/a | ⚠️ 1.0.0  [[>]](https://namada-indexer.0xcryptovestor.com/health) |
 | Mandragora | danielmandragora | n/a | 💀 |
 | sproutstake | oneplus | n/a | 🎉 2.3.0  [[>]](https://namada-api.sproutstake.space/health) |

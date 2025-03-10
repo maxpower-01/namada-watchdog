@@ -48,6 +48,12 @@
             "discord": "nguyenthenguyen",
             "url": "https://namadillo-housefire.pwa.mekonglabs.xyz/",
             "version": "1.16.0"
+        },
+        {
+            "team": "papadritta",
+            "discord": "papadritta",
+            "url": "https://housefire.ui.papadritta.com",
+            "version": "1.16.0"
         }
     ],
     "indexer": [
@@ -110,9 +116,9 @@
         {
             "team": "papadritta",
             "discord": "papadritta",
-            "url": "https://housefire.rpc.papadritta.com/indexer/",
-            "version": "unavailable",
-            "commit": "unavailable"
+            "url": "https://housefire.indexer.papadritta.com",
+            "version": "2.3.0",
+            "commit": "f780eee94faccb82687a9fad1936856cc47fe591"
         }
     ]
 }
