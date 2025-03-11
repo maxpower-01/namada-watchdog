@@ -5,10 +5,12 @@ from bs4 import BeautifulSoup
 NETWORKS = {
     "namada": {
         "indexer": "https://raw.githubusercontent.com/Luminara-Hub/namada-ecosystem/main/user-and-dev-tools/mainnet/namada-indexers.json",
+        "masp": "https://raw.githubusercontent.com/Luminara-Hub/namada-ecosystem/main/user-and-dev-tools/mainnet/masp-indexers.json",
         "interface": "https://raw.githubusercontent.com/Luminara-Hub/namada-ecosystem/main/user-and-dev-tools/mainnet/interfaces.json"
     },
     "housefire": {
         "indexer": "https://raw.githubusercontent.com/Luminara-Hub/namada-ecosystem/main/user-and-dev-tools/testnet/housefire/namada-indexers.json",
+        "masp": "https://raw.githubusercontent.com/Luminara-Hub/namada-ecosystem/main/user-and-dev-tools/testnet/housefire/masp-indexers.json",
         "interface": "https://raw.githubusercontent.com/Luminara-Hub/namada-ecosystem/main/user-and-dev-tools/testnet/housefire/interfaces.json"
     }
 }
@@ -49,15 +51,20 @@ def update_status(network):
     status = {
         "network": network,
         "interface": [],
-        "indexer": []
+        "indexer": [],
+        "masp": []
     }
     
     for key, url in NETWORKS[network].items():
         for item in fetch_data(url):
-            component_url = item.get("Indexer API URL" if key == "indexer" else "Interface URL", "n/a")
+            component_url = item.get("Indexer API URL" if key in ["indexer", "masp"] else "Interface URL", "n/a")
             discord = item.get("Discord UserName", "n/a")
             team = item.get("Team or Contributor Name", "n/a")
-            version, commit = get_indexer_version(component_url) if key == "indexer" else (get_interface_version(component_url), None)
+            
+            if key in ["indexer", "masp"]:
+                version, commit = get_indexer_version(component_url)
+            else:
+                version, commit = get_interface_version(component_url), None
             
             entry = {"team": team, "discord": discord, "url": component_url, "version": version}
             if commit:

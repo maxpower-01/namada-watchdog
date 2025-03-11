@@ -5,7 +5,8 @@ STATUS_FILES = {"namada": "STATUS_namada.md", "housefire": "STATUS_housefire.md"
 STATUS_JSON_FILES = {"namada": "status_namada.json", "housefire": "status_housefire.json"}
 LATEST_VERSIONS = {
     "interface": "https://api.github.com/repos/anoma/namada-interface/releases",
-    "indexer": "https://api.github.com/repos/anoma/namada-indexer/tags"
+    "indexer": "https://api.github.com/repos/anoma/namada-indexer/tags",
+    "masp": "https://api.github.com/repos/anoma/namada-masp-indexer/tags"
 }
 
 def load_status(file):
@@ -19,7 +20,7 @@ def parse_version(version):
     return tuple(map(int, re.findall(r'\d+', version))) if version and version != "unknown" else (0,)
 
 def fetch_latest_versions():
-    versions = {"interface": "unknown", "indexer": "unknown"}
+    versions = {"interface": "unknown", "indexer": "unknown", "masp": "unknown"}
 
     try:
         r = requests.get(LATEST_VERSIONS["interface"], timeout=5).json()
@@ -39,24 +40,34 @@ def fetch_latest_versions():
     except:
         pass
 
+    try:
+        r = requests.get(LATEST_VERSIONS["masp"], timeout=5).json()
+        versions["masp"] = max(
+            (tag["name"].lstrip("v") for tag in r if re.match(r'^v\d+\.\d+\.\d+$', tag["name"])),
+            key=parse_version, default="unknown"
+        )
+    except:
+        pass
+
     return versions
 
 def process_status_data(status, latest_versions):
     teams = {}
-    for category in ["interface", "indexer"]:
+    for category in ["interface", "indexer", "masp"]:
         for item in status.get(category, []):
             team = item.get("team", "n/a")
             if team not in teams:
                 teams[team] = {
                     "discord": re.sub(r'[,;]+', '<br>', item.get("discord", "n/a").replace("|", "\\|")),
                     "interface": "n/a",
-                    "indexer": "n/a"
+                    "indexer": "n/a",
+                    "masp": "n/a"
                 }
             
             version, url = item.get("version", "unavailable"), item.get("url", "")
 
             if version != "unavailable":
-                url = url.rstrip("/") + "/health" if category == "indexer" and url else url
+                url = url.rstrip("/") + "/health" if category in ["indexer", "masp"] and url else url
                 link = f" [[>]]({url})" if url else ""
                 emoji = "🎉" if parse_version(version) == parse_version(latest_versions[category]) else "⚠️"
                 teams[team][category] = f"{emoji} {version} {link}"
@@ -77,12 +88,13 @@ def update_status_md(network):
 ## 🔥 Latest Releases
 - Interface (Namadillo): {latest_versions['interface']}
 - Indexer: {latest_versions['indexer']}
+- MASP: {latest_versions['masp']}
 
 ## {network.capitalize()}
-| Team | Discord | Interface | Indexer |
-|-|-|-|-|
+| Team | Discord | Interface | Indexer | MASP |
+|-|-|-|-|-|
 """
-    md_content += "\n".join(f"| {t} | {d['discord']} | {d['interface']} | {d['indexer']} |" for t, d in teams.items())
+    md_content += "\n".join(f"| {t} | {d['discord']} | {d['interface']} | {d['indexer']} | {d['masp']} |" for t, d in teams.items())
 
     with open(STATUS_FILES[network], "w") as f:
         f.write(md_content)
