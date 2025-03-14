@@ -8,16 +8,16 @@
 ## Namada
 | Team | Discord | Interface | Indexer | MASP |
 |-|-|-|-|-|
-| TuDudes | sirouk | 🎉 1.18.0  [[>]](https://interface.namada.tududes.com/) | ⚠️ 2.3.0  [[>]](https://indexer.namada.tududes.com/health) | n/a |
+| TuDudes | sirouk | 🎉 1.18.0  [[>]](https://interface.namada.tududes.com/) | ⚠️ 2.3.0  [[>]](https://indexer.namada.tududes.com/health) | ⚠️ 1.2.0  [[>]](https://masp.namada.tududes.com/health) |
 | 5ElementsNodes | h3ll0_friend | 🎉 1.18.0  [[>]](https://namadillo.5elementsnodes.com/) | ⚠️ 2.3.0  [[>]](https://index-namada.5elementsnodes.com/health) | ⚠️ 1.2.0  [[>]](https://masp-namada.5elementsnodes.com/health) |
 | Hadesguard | hadesguard99 | 🎉 1.18.0  [[>]](https://interface.hadesguard.tech) | n/a | n/a |
-| Sproutstake | oneplus | 🎉 1.18.0  [[>]](https://namada-interface.sproutstake.space/) | n/a | ⚠️ 1.2.0  [[>]](https://namada-masp-api.sproutstake.space/health) |
+| Sproutstake | oneplus | 🎉 1.18.0  [[>]](https://namada-interface.sproutstake.space/) | ⚠️ 2.3.0  [[>]](https://namada-api.sproutstake.space/health) | ⚠️ 1.2.0  [[>]](https://namada-masp-api.sproutstake.space/health) |
 | MELLIFERA | ruslan_mellifera | ⚠️ 1.17.0  [[>]](https://namadillo.mellifera.network) | ⚠️ 2.3.0  [[>]](https://namada-mainnet-indexer.mellifera.network/health) | 💀 |
 | deNodes | bombermine | 🎉 1.18.0  [[>]](https://namadillo.denodes.xyz) | ⚠️ 2.3.0  [[>]](https://namada-indexer.denodes.xyz/health) | ⚠️ 1.2.0  [[>]](https://namada-masp-indexer.denodes.xyz/health) |
 | Palamar | pa1amar | 🎉 1.18.0  [[>]](https://namada-interface.palamar.io) | ⚠️ 2.3.0  [[>]](https://namada-indexer.palamar.io/health) | ⚠️ 1.2.0  [[>]](https://namada-masp.palamar.io/health) |
 | StakeUp | landeros | 🎉 1.18.0  [[>]](https://namadillo.namada.stakeup.tech) | ⚠️ 2.3.0  [[>]](https://indexer.namada.stakeup.tech/health) | ⚠️ 1.2.0  [[>]](https://masp-indexer.namada.stakeup.tech/health) |
-| Citizen Web3 | alibabaedge<br> serejandmyself_citizenweb3 | 🎉 1.18.0  [[>]](https://namadillo.citizenweb3.com) | ⚠️ 2.3.0  [[>]](https://indexer.namada.citizenweb3.com/health) | ⚠️ 1.2.0  [[>]](https://masp-indexer.namada.citizenweb3.com/health) |
-| Stake&Relax 🦥 | manueldb2 | 🎉 1.18.0  [[>]](https://namadillo.stakeandrelax.net) | ⚠️ 2.3.0  [[>]](https://namada-indexer.stakeandrelax.net/health) | 💀 |
+| Citizen Web3 | alibabaedge<br> serejandmyself_citizenweb3 | 💀 | ⚠️ 2.3.0  [[>]](https://indexer.namada.citizenweb3.com/health) | ⚠️ 1.2.0  [[>]](https://masp-indexer.namada.citizenweb3.com/health) |
+| Stake&Relax 🦥 | manueldb2 | 🎉 1.18.0  [[>]](https://namadillo.stakeandrelax.net) | ⚠️ 2.3.0  [[>]](https://namada-indexer.stakeandrelax.net/health) | ⚠️ 1.2.0  [[>]](https://namada-masp.stakeandrelax.net/health) |
 | CroutonDigital | crouton.digital | ⚠️ 1.17.0  [[>]](https://namadillo.crouton.digital) | ⚠️ 2.3.0  [[>]](https://namada-mainnet-indexer.crouton.digital/health) | ⚠️ 1.2.0  [[>]](https://namada-mainnet-masp-indexer.crouton.digital/health) |
 | EmberStake | 4rash | 🎉 1.18.0  [[>]](https://namadillo.emberstake.xyz) | ⚠️ 2.3.0  [[>]](https://namada-idx.emberstake.xyz/health) | ⚠️ 1.2.0  [[>]](https://namada-masp-idx.emberstake.xyz/health) |
 | Nodes.Guru | 0xan_nodes_guru | 🎉 1.18.0  [[>]](https://namada-interface.nodes.guru) | ⚠️ 2.3.0  [[>]](https://namada-indexer.nodes.guru/health) | ⚠️ 1.2.0  [[>]](https://namada-masp.nodes.guru/health) |
@@ -33,7 +33,6 @@
 | max-02 | power542 | 🎉 1.18.0  [[>]](https://namadillo.net) | n/a | n/a |
 | Wavefive | cryptovestor | n/a | ⚠️ 1.0.0  [[>]](https://namada-indexer.0xcryptovestor.com/health) | 💀 |
 | Mandragora | danielmandragora | n/a | 💀 | n/a |
-| sproutstake | oneplus | n/a | ⚠️ 2.3.0  [[>]](https://namada-api.sproutstake.space/health) | n/a |
 | VallidatorVN | validatorvn | n/a | 💀 | 💀 |
 | Architect Nodes | architectnodes | n/a | 💀 | 💀 |
 | KonsorTech | konsortech | n/a | 💀 | n/a |

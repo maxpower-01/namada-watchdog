@@ -54,6 +54,12 @@
             "discord": "papadritta",
             "url": "https://housefire.ui.papadritta.com",
             "version": "1.16.0"
+        },
+        {
+            "team": "Natsai",
+            "discord": "dimibblk",
+            "url": "https://interface.housefire.natsai.xyz",
+            "version": "1.18.0"
         }
     ],
     "indexer": [
@@ -119,6 +125,13 @@
             "url": "https://housefire.indexer.papadritta.com",
             "version": "2.3.0",
             "commit": "f780eee94faccb82687a9fad1936856cc47fe591"
+        },
+        {
+            "team": "Natsai",
+            "discord": "dimibblk",
+            "url": "https://indexer.housefire.natsai.xyz",
+            "version": "2.3.0",
+            "commit": "ad704bfbc3f6210e9e48e67ccb01f2ec7cfbe3a2"
         }
     ],
     "masp": [
@@ -167,9 +180,9 @@
         {
             "team": "max-03",
             "discord": "power542",
-            "url": "https:/masp.housefire.max-03.xyz",
-            "version": "unavailable",
-            "commit": "unavailable"
+            "url": "https://masp.housefire.max-03.xyz",
+            "version": "1.2.0",
+            "commit": "38093aca7bc8cd3bb03ef06ce139fe4e672b20ff"
         },
         {
             "team": "TuDudes",
@@ -177,6 +190,20 @@
             "url": "https://masp.housefire.tududes.com/",
             "version": "1.2.0",
             "commit": "38093aca7bc8cd3bb03ef06ce139fe4e672b20ff"
+        },
+        {
+            "team": "papadritta",
+            "discord": "papadritta",
+            "url": "https://housefire.masp-indexer.papadritta.com",
+            "version": "1.1.2",
+            "commit": "99fed1d74a22d6f1cb80e24798cf3c2b3f256374"
+        },
+        {
+            "team": "Natsai",
+            "discord": "dimibblk",
+            "url": "https://masp.housefire.natsai.xyz",
+            "version": "1.0.0",
+            "commit": "3e3683e4d56c58a16920a465d7124125031bfe2a"
         }
     ]
 }
