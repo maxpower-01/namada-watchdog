@@ -2,7 +2,7 @@
 
 ## 🔥 Latest Releases
 - Interface (Namadillo): 1.18.0
-- Indexer: 2.4.3
+- Indexer: 2.4.4
 - MASP: 1.2.1
 
 ## Housefire
