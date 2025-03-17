@@ -31,6 +31,7 @@
 | LoserBoy | tonymarma | 🎉 1.18.0  [[>]](https://interface.loserboy.xyz) | n/a | n/a |
 | MekongLabs | nguyenthenguyen | 🎉 1.18.0  [[>]](https://namadillo.pwa.mekonglabs.xyz/) | n/a | n/a |
 | max-02 | power542 | 🎉 1.18.0  [[>]](https://namadillo.net) | n/a | n/a |
+| ValidatorVN | validatorvn | 🎉 1.18.0  [[>]](https://namadillo.validatorvn.com) | n/a | n/a |
 | Wavefive | cryptovestor | n/a | ⚠️ 1.0.0  [[>]](https://namada-indexer.0xcryptovestor.com/health) | 💀 |
 | Mandragora | danielmandragora | n/a | 💀 | n/a |
 | VallidatorVN | validatorvn | n/a | 💀 | 💀 |
