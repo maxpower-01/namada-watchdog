@@ -28,7 +28,7 @@
 | Grand Valley | baconvalley | 💀 | ⚠️ 2.3.0  [[>]](https://indexer-mainnet-namada.grandvalleys.com/health) | ⚠️ 1.2.0  [[>]](https://masp-indexer-mainnet-namada.grandvalleys.com/health) |
 | MurphyNode | lyeoeon | ⚠️ 1.18.0  [[>]](https://namadillo.murphynode.net/) | ⚠️ 2.3.0  [[>]](https://indexer.namada.murphynode.net/health) | ⚠️ 1.2.0  [[>]](https://masp-indexer.murphynode.net/health) |
 | itrocket | itrocket | ⚠️ 1.18.0  [[>]](https://namadillo.itrocket.net/) | ⚠️ 2.3.0  [[>]](https://namada-mainnet-indexer.itrocket.net/health) | ⚠️ 1.1.0  [[>]](https://namada-mainnet-masp.itrocket.net/health) |
-| LoserBoy | tonymarma | ⚠️ 1.18.0  [[>]](https://interface.loserboy.xyz) | n/a | n/a |
+| LoserBoy | tonymarma | 🎉 1.19.0  [[>]](https://interface.loserboy.xyz) | n/a | n/a |
 | MekongLabs | nguyenthenguyen | ⚠️ 1.18.0  [[>]](https://namadillo.pwa.mekonglabs.xyz/) | n/a | n/a |
 | max-02 | power542 | ⚠️ 1.18.0  [[>]](https://namadillo.net) | n/a | n/a |
 | ValidatorVN | validatorvn | ⚠️ 1.18.0  [[>]](https://namadillo.validatorvn.com) | n/a | n/a |
