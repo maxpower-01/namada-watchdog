@@ -9,7 +9,7 @@
 | Team | Discord | Interface | Indexer | MASP |
 |-|-|-|-|-|
 | TuDudes | sirouk | ⚠️ 1.18.0  [[>]](https://interface.namada.tududes.com/) | ⚠️ 2.3.0  [[>]](https://indexer.namada.tududes.com/health) | ⚠️ 1.2.0  [[>]](https://masp.namada.tududes.com/health) |
-| 5ElementsNodes | h3ll0_friend | ⚠️ 1.18.0  [[>]](https://namadillo.5elementsnodes.com/) | ⚠️ 2.3.0  [[>]](https://index-namada.5elementsnodes.com/health) | ⚠️ 1.2.0  [[>]](https://masp-namada.5elementsnodes.com/health) |
+| 5ElementsNodes | h3ll0_friend | 🎉 1.19.0  [[>]](https://namadillo.5elementsnodes.com/) | ⚠️ 2.3.0  [[>]](https://index-namada.5elementsnodes.com/health) | ⚠️ 1.2.0  [[>]](https://masp-namada.5elementsnodes.com/health) |
 | Hadesguard | hadesguard99 | ⚠️ 1.18.0  [[>]](https://interface.hadesguard.tech) | n/a | n/a |
 | Sproutstake | oneplus | ⚠️ 1.18.0  [[>]](https://namada-interface.sproutstake.space/) | ⚠️ 2.3.0  [[>]](https://namada-api.sproutstake.space/health) | ⚠️ 1.2.0  [[>]](https://namada-masp-api.sproutstake.space/health) |
 | MELLIFERA | ruslan_mellifera | ⚠️ 1.17.0  [[>]](https://namadillo.mellifera.network) | ⚠️ 2.3.0  [[>]](https://namada-mainnet-indexer.mellifera.network/health) | 💀 |
