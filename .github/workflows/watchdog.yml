@@ -2,8 +2,7 @@ name: namada-watchdog 🐶
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Midnight UTC
-    - cron: '0 12 * * *' # Noon UTC
+    - cron: '0 */4 * * *'  # Every 4 hours (6 times a day)
   workflow_dispatch:
 
 permissions:
@@ -30,17 +29,19 @@ jobs:
 
       - name: Run status update scripts
         run: |
-          python update_status.py
-          python update_status_md.py
+          python interface.py
+          python status.py
+          python interface_md.py
+          python status_md.py
 
       - name: Commit and push
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
-          git add status_namada.json status_housefire.json STATUS_namada.md STATUS_housefire.md
+          git add interface.json INTERFACE.md status.json STATUS.md
           if git diff --staged --quiet; then
             echo "No changes detected, skipping commit."
           else
-            git commit -m "Automated update: Namada & Housefire service status"
+            git commit -m "Automated update: Namada service status - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push
           fi
