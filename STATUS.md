@@ -34,7 +34,7 @@
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 1.1.6 | 🔴 - |
-| Coverlet | 🔴 - | 🔴 - | 🔴 - |
+| Coverlet | 🔴 - | 🟡 2.3.0 | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
 
@@ -48,7 +48,7 @@
 | max-03 | 🟢 1.19.0 | 🟢 2.4.4 | 🟢 1.2.1 |
 | TuDudes | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | 🔴 - | 🟡 2.3.0 | 🟡 1.1.2 |
+| papadritta | 🟢 1.19.0 | 🟡 2.3.0 | 🟡 1.1.2 |
 | Natsai | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.0.0 |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
