@@ -19,7 +19,7 @@
 | Nodes.Guru | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
 | shield-crypto | 🟢 1.19.0 | 🟡 2.4.4 | 🟢 1.2.1 |
 | L0vd | 🟡 1.17.0 | 🟡 2.3.0 | 🔴 - |
-| Validatus | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
+| Validatus | 🟡 1.18.0 | 🔴 - | 🔴 - |
 | OriginStake | 🟡 1.18.0 | 🟡 2.1.0 | 🔴 - |
 | Grand Valley | 🔴 - | 🟡 2.3.0 | 🟡 1.2.0 |
 | MurphyNode | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
@@ -40,7 +40,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| EmberStake | 🟡 1.18.0 | 🟡 2.1.0 | 🟡 1.1.0 |
+| EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
 | Knowable | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
