@@ -40,7 +40,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| EmberStake | 🔴 - | 🔴 - | 🔴 - |
+| EmberStake | 🟡 1.18.0 | 🟡 2.1.0 | 🔴 - |
 | Sproutstake | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
 | Knowable | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
