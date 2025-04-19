@@ -24,13 +24,13 @@
 | Grand Valley | 🔴 - | 🟡 2.3.0 | 🟡 1.2.0 |
 | MurphyNode | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.2.0 |
 | itrocket | 🟡 1.18.0 | 🟡 2.3.0 | 🟡 1.1.0 |
-| LoserBoy | 🟢 1.19.0 | 🔴 - | 🔴 - |
+| LoserBoy | 🔴 - | 🔴 - | 🔴 - |
 | MekongLabs | 🟡 1.18.0 | 🔴 - | 🔴 - |
 | max-02 | 🟡 1.18.0 | 🔴 - | 🔴 - |
-| ValidatorVN | 🟡 1.18.0 | 🔴 - | 🔴 - |
+| ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Wavefive | 🔴 - | 🟡 1.0.0 | 🔴 - |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
-| VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
+| VallidatorVN | 🔴 - | 🔴 - | 🟢 1.2.1 |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 1.1.6 | 🔴 - |
