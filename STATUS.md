@@ -30,7 +30,7 @@
 | ValidatorVN | 🟡 1.18.0 | 🔴 - | 🔴 - |
 | Wavefive | 🔴 - | 🟡 1.0.0 | 🔴 - |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
-| VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
+| VallidatorVN | 🔴 - | 🟡 2.3.0 | 🟢 1.2.1 |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 1.1.6 | 🔴 - |
