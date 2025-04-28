@@ -28,13 +28,14 @@
 | MekongLabs | 🟡 1.18.0 | 🔴 - | 🔴 - |
 | max-02 | 🟢 1.19.0 | 🔴 - | 🔴 - |
 | ValidatorVN | 🟡 1.18.0 | 🔴 - | 🔴 - |
-| Wavefive | 🔴 - | 🟡 1.0.0 | 🔴 - |
+| Wavefive | 🔴 - | 🟢 2.5.2 | 🔴 - |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🟡 2.3.0 | 🟢 1.2.1 |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 1.1.6 | 🔴 - |
 | Coverlet | 🔴 - | 🟡 2.3.0 | 🔴 - |
+| NODERS | 🔴 - | 🟢 2.5.2 | 🟢 1.2.1 |
 
 ## 🏠🔥 Housefire (testnet)
 

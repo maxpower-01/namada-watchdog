@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2025-04-28T08:36:25.067453+00:00Z",
-    "script_end_time": "2025-04-28T08:38:10.502735+00:00Z",
+    "script_start_time": "2025-04-28T12:22:32.245466+00:00Z",
+    "script_end_time": "2025-04-28T12:23:54.482651+00:00Z",
     "latest_versions": {
         "interface": "1.19.0",
         "indexer": "2.5.2",
@@ -181,8 +181,8 @@
                     "team": "Wavefive",
                     "discord": "cryptovestor",
                     "url": "https://namada-indexer.0xcryptovestor.com",
-                    "version": "1.0.0",
-                    "commit": "e2ab7030cd9f27c6268554319f1877238d1c2715"
+                    "version": "2.5.2",
+                    "commit": "8920fdb864b0d6ba74a6ec8faf186bf8bccf4e90"
                 },
                 {
                     "team": "Mandragora",
@@ -351,6 +351,13 @@
                     "url": "https://indexer-mainnet-namada.grandvalleys.com",
                     "version": "2.3.0",
                     "commit": "f780eee94faccb82687a9fad1936856cc47fe591"
+                },
+                {
+                    "team": "NODERS",
+                    "discord": "noders",
+                    "url": "https://namada-indexer.noders.services",
+                    "version": "2.5.2",
+                    "commit": "8920fdb864b0d6ba74a6ec8faf186bf8bccf4e90"
                 }
             ],
             "masp": [
@@ -521,6 +528,13 @@
                     "url": "https://namada-mainnet-masp-indexer.rpc.l0vd.com",
                     "version": "1.2.1",
                     "commit": "6d6d022588a56f7c836e485de257e93646cd7847"
+                },
+                {
+                    "team": "NODERS",
+                    "discord": "noders",
+                    "url": "https://namada-masp-indexer.noders.services",
+                    "version": "1.2.1",
+                    "commit": "1dcc7c93bf33f25cc4dabff37b30a340d5ec2a55"
                 }
             ]
         },
