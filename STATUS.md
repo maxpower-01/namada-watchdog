@@ -12,7 +12,7 @@
 | deNodes | 🟢 1.20.0 | 🟡 2.5.2 | 🟡 1.2.0 |
 | Palamar | 🟢 1.20.0 | 🟡 2.5.2 | 🟡 1.2.1 |
 | StakeUp | 🟢 1.20.0 | 🟡 2.5.3 | 🟡 1.2.1 |
-| Citizen Web3 | 🟡 1.19.0 | 🔴 - | 🔴 - |
+| Citizen Web3 | 🟢 1.20.0 | 🟡 2.5.3 | 🟡 1.2.0 |
 | Stake&Relax 🦥 | 🟢 1.20.0 | 🔴 - | 🟡 1.2.0 |
 | CroutonDigital | 🟢 1.20.0 | 🟡 2.5.2 | 🟡 1.2.0 |
 | EmberStake | 🟢 1.20.0 | 🟡 2.5.3 | 🟡 1.2.1 |
@@ -21,14 +21,14 @@
 | L0vd | 🟡 1.19.0 | 🟡 2.3.0 | 🟡 1.2.1 |
 | Validatus | 🟢 1.20.0 | 🟡 2.3.0 | 🟡 1.2.1 |
 | OriginStake | 🟢 1.20.0 | 🟡 2.1.0 | 🔴 - |
-| Grand Valley | 🔴 - | 🟡 2.5.2 | 🔴 - |
+| Grand Valley | 🔴 - | 🟡 2.5.2 | 🟡 1.2.1 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🟢 1.20.0 | 🔴 - | 🟡 1.1.0 |
 | LoserBoy | 🟢 1.20.0 | 🔴 - | 🔴 - |
 | MekongLabs | 🟡 1.18.0 | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
-| Wavefive | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| Wavefive | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
@@ -42,7 +42,7 @@
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
 | EmberStake | 🟢 1.20.0 | 🟢 3.0.0 | 🟢 1.3.0 |
-| Sproutstake | 🟢 1.20.0 | 🟡 2.5.2 | 🟢 1.3.0 |
+| Sproutstake | 🟢 1.20.0 | 🟢 3.0.0 | 🟢 1.3.0 |
 | Knowable | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
 | deNodes | 🟢 1.20.0 | 🟡 2.5.2 | 🟢 1.3.0 |
