@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2025-05-12T08:18:54.809185+00:00Z",
-    "script_end_time": "2025-05-12T08:20:51.602997+00:00Z",
+    "script_start_time": "2025-05-12T12:24:29.117248+00:00Z",
+    "script_end_time": "2025-05-12T12:26:47.232393+00:00Z",
     "latest_versions": {
         "interface": "1.20.1",
         "indexer": "3.0.1",
@@ -593,6 +593,12 @@
                     "discord": "dimibblk",
                     "url": "https://interface.housefire.natsai.xyz",
                     "version": "1.20.1"
+                },
+                {
+                    "team": "laliola",
+                    "discord": "julvinn",
+                    "url": "https://alpaca.cc0d3e0c033be-ui.laliola.com",
+                    "version": "1.20.1"
                 }
             ],
             "indexer": [
@@ -672,6 +678,13 @@
                     "url": "https://indexer.housefire.natsai.xyz",
                     "version": "3.0.1",
                     "commit": "VERGEN_IDEMPOTENT_OUTPUT"
+                },
+                {
+                    "team": "laliola",
+                    "discord": "julvinn",
+                    "url": "https://alpaca.cc0d3e0c033be-indexer.laliola.com",
+                    "version": "3.0.1",
+                    "commit": "65c36e2fbfd450adacee3f7455ff9d75e44889be"
                 }
             ],
             "masp": [
@@ -742,6 +755,13 @@
                     "team": "Natsai",
                     "discord": "dimibblk",
                     "url": "https://masp.housefire.natsai.xyz",
+                    "version": "1.3.0",
+                    "commit": "1ffdfaab41d7998429bff9b482482baec2e39397"
+                },
+                {
+                    "team": "laliola",
+                    "discord": "julvinn",
+                    "url": "https://alpaca.cc0d3e0c033be-masp-indexer.laliola.com",
                     "version": "1.3.0",
                     "commit": "1ffdfaab41d7998429bff9b482482baec2e39397"
                 }
