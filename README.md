@@ -5,11 +5,11 @@ This repository is an effortless status tracker for the Namada ecosystem. It con
 |-|-|
 | Shows the operational function of the Namada Interface (Namadillo). | Shows and tracks the deployed version of Namada infrastructure. |
 
-## 📖 Latest Releases
-- [Namada Interface (Namadillo)](https://github.com/anoma/namada-interface) - 1.9.0  
-- [Namada Indexer](https://github.com/anoma/namada-indexer) - 2.4.4  
-- [Namada MASP Indexer](https://github.com/anoma/namada-masp-indexer) - 1.2.1  
-- [Namada](https://github.com/anoma/namada) - 1.1.4  
+## 📖 Components
+- [Namada Interface (Namadillo)](https://github.com/anoma/namada-interface)
+- [Namada Indexer](https://github.com/anoma/namada-indexer)
+- [Namada MASP Indexer](https://github.com/anoma/namada-masp-indexer)
+- [Namada](https://github.com/anoma/namada)
 
 # Namadillo
 
