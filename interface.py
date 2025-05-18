@@ -41,9 +41,8 @@ def fetch_json(url):
 
 import re
 
-# Only accept semantic versions like "1.2.3"
 def is_valid_semver(version):
-    return re.fullmatch(r'\d+\.\d+\.\d+', version) is not None
+    return re.fullmatch(r"\d+\.\d+\.\d+", version) is not None
 
 def fetch_latest_versions():
     latest_versions = {}
@@ -55,22 +54,23 @@ def fetch_latest_versions():
             for r in releases:
                 tag = r.get("tag_name", "")
                 if "namadillo@v" in tag:
-                    clean_version = re.sub(r"namadillo@v", "", tag)
-                    if is_valid_semver(clean_version):
-                        versions.append(clean_version)
+                    ver = tag.replace("namadillo@v", "")
+                    if is_valid_semver(ver):
+                        versions.append(ver)
         else:
             for t in releases:
-                raw = t.get("name", "").lstrip("v")
-                if is_valid_semver(raw):
-                    versions.append(raw)
+                tag = t.get("name", "").lstrip("v")
+                if is_valid_semver(tag):
+                    versions.append(tag)
 
-        latest_versions[key] = (
-            max(versions, key=lambda v: list(map(int, v.split("."))))
-            if versions else "n/a"
-        )
+        if versions:
+            # Safe version comparison
+            versions = [v for v in versions if is_valid_semver(v)]
+            latest_versions[key] = max(versions, key=lambda v: list(map(int, v.split('.'))))
+        else:
+            latest_versions[key] = "n/a"
 
     return latest_versions
-
 
 # Extract interface version
 def get_interface_version(url):
