@@ -39,9 +39,11 @@ def fetch_json(url):
     except json.JSONDecodeError:
         return {}
 
-# Check if version is a clean semver like "0.22.1"
-def is_valid_semver(v):
-    return re.fullmatch(r'\d+\.\d+\.\d+', v) is not None
+import re
+
+# Check if version is valid semver like "0.22.1"
+def is_valid_semver(version):
+    return re.fullmatch(r'\d+\.\d+\.\d+', version) is not None
 
 # Fetch latest versions from GitHub
 def fetch_latest_versions():
@@ -52,20 +54,17 @@ def fetch_latest_versions():
         if key == "interface":
             versions = [
                 re.sub(r"namadillo@v", "", r["tag_name"])
-                for r in releases if "namadillo@v" in r.get("tag_name", "")
+                for r in releases
+                if "namadillo@v" in r.get("tag_name", "")
             ]
         else:
-            versions = [
-                t["name"].lstrip("v")
-                for t in releases
-                if "name" in t and is_valid_semver(t["name"].lstrip("v"))
-            ]
+            raw_versions = [t.get("name", "").lstrip("v") for t in releases]
+            versions = [v for v in raw_versions if is_valid_semver(v)]
 
-        latest_versions[key] = max(
-            versions,
-            key=lambda v: list(map(int, v.split('.'))),
-            default="n/a"
-        )
+        if versions:
+            latest_versions[key] = max(versions, key=lambda v: list(map(int, v.split("."))))
+        else:
+            latest_versions[key] = "n/a"
 
     return latest_versions
 
