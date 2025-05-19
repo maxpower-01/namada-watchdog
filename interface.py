@@ -39,25 +39,7 @@ def fetch_json(url):
     except json.JSONDecodeError:
         return {}
 
-# Fetch latest versions from GitHub using string comparison
-def fetch_latest_versions():
-    latest_versions = {}
-    for key, url in LATEST_VERSIONS.items():
-        releases = fetch_json(url)
-
-        if key == "interface":
-            versions = [re.sub(r"namadillo@v", "", r["tag_name"]) for r in releases if "namadillo@v" in r.get("tag_name", "")]
-        else:
-            versions = [t["name"].lstrip("v") for t in releases if re.match(r'^v\d+\.\d+\.\d+', t.get("name", ""))]
-
-        def parse_version(v):
-            return [int(re.match(r"(\d+)", x).group(1)) if re.match(r"(\d+)", x) else 0 for x in v.split(".")]
-
-        latest_versions[key] = max(versions, key=parse_version, default="n/a")
-
-    return latest_versions
-
-# Extract interface version
+# Fetch latest versions from GitHub, robustly handling version suffixes
 def fetch_latest_versions():
     def extract_numeric_version(v):
         # Extracts the leading numeric version part (e.g., "1.2.3-hotfix2" -> [1,2,3])
@@ -91,6 +73,14 @@ def fetch_latest_versions():
         )
 
     return latest_versions
+
+# Extract interface version
+def get_interface_version(url):
+    if not (r := fetch_url(url)): return "n/a"
+    if (t := BeautifulSoup(r, "html.parser").find("script", {"type": "module", "crossorigin": True})) and "src" in t.attrs:
+        if (js_r := fetch_url(f"{url.rstrip('/')}/{t['src'].lstrip('/')}")) and (match := re.search(r'version\$1\s*=\s*"([\d.]+)"', js_r)):
+            return match.group(1)
+    return "n/a"
 
 # Parse config.toml file
 def parse_config(url):
@@ -141,8 +131,10 @@ output_data = {
 
 for network, sources in INTERFACES.items():
     if not (interfaces_json := fetch_url(sources["interface"], timeout=5)): continue
-    try: interfaces = json.loads(interfaces_json)
-    except: continue
+    try:
+        interfaces = json.loads(interfaces_json)
+    except:
+        continue
 
     network_interfaces = []
     
