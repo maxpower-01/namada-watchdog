@@ -39,16 +39,36 @@ def fetch_json(url):
 
 # Fetch latest versions from GitHub
 def fetch_latest_versions():
+    def extract_numeric_version(v):
+        # Extracts the leading numeric version part (e.g., "1.2.3-hotfix2" -> [1,2,3])
+        base = v.split('-')[0]
+        parts = base.split('.')
+        return [int(p) if p.isdigit() else 0 for p in parts]
+
     latest_versions = {}
     for key, url in LATEST_VERSIONS.items():
         releases = fetch_json(url)
 
         if key == "interface":
-            versions = [re.sub(r"namadillo@v", "", r["tag_name"]) for r in releases if "namadillo@v" in r.get("tag_name", "")]
+            versions = [
+                re.sub(r"namadillo@v", "", r.get("tag_name", ""))
+                for r in releases
+                if "namadillo@v" in r.get("tag_name", "")
+            ]
         else:
-            versions = [t["name"].lstrip("v") for t in releases if re.match(r'^v\d+\.\d+\.\d+$', t.get("name", ""))]
+            versions = [
+                t.get("name", "").lstrip("v")
+                for t in releases
+            ]
 
-        latest_versions[key] = max(versions, key=lambda v: list(map(int, v.split('.'))), default="n/a")
+        # Only keep versions that look like X.Y.Z or X.Y.Z-suffix
+        versions = [v for v in versions if re.match(r"^\d+\.\d+\.\d+", v)]
+
+        latest_versions[key] = max(
+            versions,
+            key=extract_numeric_version,
+            default="n/a"
+        )
 
     return latest_versions
 
