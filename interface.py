@@ -50,12 +50,10 @@ def fetch_latest_versions():
         else:
             versions = [t["name"].lstrip("v") for t in releases if re.match(r'^v\d+\.\d+\.\d+', t.get("name", ""))]
 
-        # Updated logic here
-        latest_versions[key] = max(
-            versions,
-            key=lambda v: list(map(lambda x: int(x) if x.isdigit() else 0, v.split('.'))),
-            default="n/a"
-        )
+        def parse_version(v):
+            return [int(re.match(r"(\d+)", x).group(1)) if re.match(r"(\d+)", x) else 0 for x in v.split(".")]
+
+        latest_versions[key] = max(versions, key=parse_version, default="n/a")
 
     return latest_versions
 
