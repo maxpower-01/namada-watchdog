@@ -41,26 +41,21 @@ def fetch_json(url):
 
 # Fetch latest versions from GitHub using string comparison
 def fetch_latest_versions():
-    def is_valid_semver(v): return re.fullmatch(r"\d+\.\d+\.\d+", v)
-
     latest_versions = {}
     for key, url in LATEST_VERSIONS.items():
         releases = fetch_json(url)
 
         if key == "interface":
-            versions = [
-                re.sub(r"namadillo@v", "", r.get("tag_name", ""))
-                for r in releases
-                if "namadillo@v" in r.get("tag_name", "") and is_valid_semver(re.sub(r"namadillo@v", "", r.get("tag_name", "")))
-            ]
+            versions = [re.sub(r"namadillo@v", "", r["tag_name"]) for r in releases if "namadillo@v" in r.get("tag_name", "")]
         else:
-            versions = [
-                t.get("name", "").lstrip("v")
-                for t in releases
-                if is_valid_semver(t.get("name", "").lstrip("v"))
-            ]
+            versions = [t["name"].lstrip("v") for t in releases if re.match(r'^v\d+\.\d+\.\d+', t.get("name", ""))]
 
-        latest_versions[key] = max(versions, default="n/a")
+        # Updated logic here
+        latest_versions[key] = max(
+            versions,
+            key=lambda v: list(map(lambda x: int(x) if x.isdigit() else 0, v.split('.'))),
+            default="n/a"
+        )
 
     return latest_versions
 
