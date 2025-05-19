@@ -63,16 +63,7 @@ def fetch_latest_versions():
                 if is_valid_semver(raw):
                     versions.append(raw)
 
-        # Filter AGAIN right before max(), just to be sure
-        versions = [v for v in versions if is_valid_semver(v)]
-
-        try:
-            latest_versions[key] = max(
-                versions,
-                key=lambda v: list(map(int, v.split('.')))
-            )
-        except ValueError:
-            latest_versions[key] = "n/a"
+        latest_versions[key] = max(versions, default="n/a")
 
     return latest_versions
 
