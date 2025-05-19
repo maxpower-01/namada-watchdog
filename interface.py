@@ -42,7 +42,7 @@ def fetch_json(url):
 import re
 
 def is_valid_semver(version):
-    return re.fullmatch(r"\d+\.\d+\.\d+", version) is not None
+    return bool(re.fullmatch(r'\d+\.\d+\.\d+', version))
 
 def fetch_latest_versions():
     latest_versions = {}
@@ -53,21 +53,25 @@ def fetch_latest_versions():
         if key == "interface":
             for r in releases:
                 tag = r.get("tag_name", "")
-                if "namadillo@v" in tag:
-                    ver = tag.replace("namadillo@v", "")
-                    if is_valid_semver(ver):
-                        versions.append(ver)
+                if tag.startswith("namadillo@v"):
+                    cleaned = tag.replace("namadillo@v", "")
+                    if is_valid_semver(cleaned):
+                        versions.append(cleaned)
         else:
             for t in releases:
-                tag = t.get("name", "").lstrip("v")
-                if is_valid_semver(tag):
-                    versions.append(tag)
+                raw = t.get("name", "").lstrip("v")
+                if is_valid_semver(raw):
+                    versions.append(raw)
 
-        if versions:
-            # Safe version comparison
-            versions = [v for v in versions if is_valid_semver(v)]
-            latest_versions[key] = max(versions, key=lambda v: list(map(int, v.split('.'))))
-        else:
+        # Filter AGAIN right before max(), just to be sure
+        versions = [v for v in versions if is_valid_semver(v)]
+
+        try:
+            latest_versions[key] = max(
+                versions,
+                key=lambda v: list(map(int, v.split('.')))
+            )
+        except ValueError:
             latest_versions[key] = "n/a"
 
     return latest_versions
