@@ -58,12 +58,39 @@ def fetch_latest_versions():
     return latest_versions
 
 # Extract interface version
-def get_interface_version(url):
-    if not (r := fetch_url(url)): return "n/a"
-    if (t := BeautifulSoup(r, "html.parser").find("script", {"type": "module", "crossorigin": True})) and "src" in t.attrs:
-        if (js_r := fetch_url(f"{url.rstrip('/')}/{t['src'].lstrip('/')}")) and (match := re.search(r'version\$1\s*=\s*"([\d.]+)"', js_r)):
-            return match.group(1)
-    return "n/a"
+def fetch_latest_versions():
+    def extract_numeric_version(v):
+        # Extracts the leading numeric version part (e.g., "1.2.3-hotfix2" -> [1,2,3])
+        base = v.split('-')[0]  # "1.2.3-hotfix2" -> "1.2.3"
+        parts = base.split('.')
+        return [int(p) if p.isdigit() else 0 for p in parts]
+
+    latest_versions = {}
+    for key, url in LATEST_VERSIONS.items():
+        releases = fetch_json(url)
+
+        if key == "interface":
+            versions = [
+                re.sub(r"namadillo@v", "", r.get("tag_name", ""))
+                for r in releases
+                if "namadillo@v" in r.get("tag_name", "")
+            ]
+        else:
+            versions = [
+                t.get("name", "").lstrip("v")
+                for t in releases
+            ]
+
+        # Remove empty strings and keep only those with at least a major.minor.patch
+        versions = [v for v in versions if re.match(r"^\d+\.\d+\.\d+", v)]
+
+        latest_versions[key] = max(
+            versions,
+            key=extract_numeric_version,
+            default="n/a"
+        )
+
+    return latest_versions
 
 # Parse config.toml file
 def parse_config(url):
