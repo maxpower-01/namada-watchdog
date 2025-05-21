@@ -5,11 +5,11 @@
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
 | TuDudes | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| 5ElementsNodes | 🔴 - | 🟡 2.5.3 | 🟡 1.2.0 |
+| 5ElementsNodes | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | Hadesguard | 🔴 - | 🟡 2.5.3 | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | MELLIFERA | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
-| deNodes | 🟡 1.20.0 | 🟡 2.5.3 | 🟡 1.2.0 |
+| deNodes | 🔴 - | 🟡 2.5.3 | 🟡 1.2.0 |
 | Palamar | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | StakeUp | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | Citizen Web3 | 🔴 - | 🟡 2.5.3 | 🟡 1.2.0 |
@@ -19,12 +19,12 @@
 | Nodes.Guru | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
 | shield-crypto | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | L0vd | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
-| Validatus | 🟢 1.20.2 | 🟡 2.5.4 | 🟡 1.2.1 |
+| Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🟡 2.1.0 | 🔴 - |
 | Grand Valley | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🔴 - | 🟢 3.0.2 | 🟢 1.3.0 |
-| LoserBoy | 🟢 1.20.2 | 🔴 - | 🔴 - |
+| LoserBoy | 🔴 - | 🔴 - | 🔴 - |
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🟢 1.20.2 | 🔴 - | 🔴 - |
@@ -35,7 +35,7 @@
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 1.1.6 | 🔴 - |
-| Coverlet | 🔴 - | 🟡 2.5.3 | 🔴 - |
+| Coverlet | 🔴 - | 🟡 2.5.4 | 🔴 - |
 | NODERS | 🔴 - | 🟡 3.0.1 | 🟢 1.3.0 |
 
 ## 🏠🔥 Housefire (testnet)
