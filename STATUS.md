@@ -4,30 +4,30 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| TuDudes | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
+| TuDudes | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | 5ElementsNodes | 🔴 - | 🟡 2.5.3 | 🟡 1.2.0 |
 | Hadesguard | 🔴 - | 🟡 2.5.3 | 🔴 - |
-| Sproutstake | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
+| Sproutstake | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | MELLIFERA | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
 | deNodes | 🟡 1.20.0 | 🟡 2.5.3 | 🟡 1.2.0 |
-| Palamar | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
+| Palamar | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | StakeUp | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | Citizen Web3 | 🔴 - | 🟡 2.5.3 | 🟡 1.2.0 |
 | Stake&Relax 🦥 | 🟢 1.20.2 | 🟡 2.5.3 | 🟡 1.2.0 |
 | CroutonDigital | 🟡 1.20.0 | 🟡 2.5.3 | 🟡 1.2.0 |
-| EmberStake | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
+| EmberStake | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | Nodes.Guru | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
 | shield-crypto | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | L0vd | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
-| Validatus | 🟡 1.20.0 | 🟡 3.0.1 | 🟡 1.2.1 |
+| Validatus | 🟢 1.20.2 | 🟡 2.5.4 | 🟡 1.2.1 |
 | OriginStake | 🔴 - | 🟡 2.1.0 | 🔴 - |
 | Grand Valley | 🔴 - | 🟡 2.5.3 | 🟡 1.2.1 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🔴 - | 🟢 3.0.2 | 🟢 1.3.0 |
-| LoserBoy | 🔴 - | 🔴 - | 🔴 - |
+| LoserBoy | 🟢 1.20.2 | 🔴 - | 🔴 - |
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
-| max-02 | 🟢 1.20.2 | 🔴 - | 🔴 - |
-| ValidatorVN | 🟡 1.20.0 | 🔴 - | 🔴 - |
+| max-02 | 🔴 - | 🔴 - | 🔴 - |
+| ValidatorVN | 🟢 1.20.2 | 🔴 - | 🔴 - |
 | papadritta | 🔴 - | 🟡 3.0.1 | 🟡 1.1.0 |
 | Wavefive | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
