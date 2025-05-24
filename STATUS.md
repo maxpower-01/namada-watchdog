@@ -31,7 +31,7 @@
 | papadritta | 🔴 - | 🟡 2.5.4 | 🟡 1.1.0 |
 | Wavefive | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
-| VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
+| VallidatorVN | 🔴 - | 🟡 2.5.4 | 🟢 1.3.0 |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 1.1.6 | 🔴 - |
