@@ -4,39 +4,35 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| TuDudes | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| 5ElementsNodes | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| Hadesguard | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| Sproutstake | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| MELLIFERA | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| deNodes | 🔴 - | 🟡 2.5.4 | 🟡 1.2.0 |
-| Palamar | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| StakeUp | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| Citizen Web3 | 🔴 - | 🟡 2.5.4 | 🟡 1.2.0 |
-| Stake&Relax 🦥 | 🔴 - | 🟡 2.5.4 | 🟡 1.2.0 |
-| CroutonDigital | 🟡 1.20.0 | 🟡 2.5.4 | 🟡 1.2.0 |
-| EmberStake | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| Nodes.Guru | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| shield-crypto | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| L0vd | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| Validatus | 🟡 1.20.2 | 🟡 2.5.4 | 🟡 1.2.1 |
+| TuDudes | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| 5ElementsNodes | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| Hadesguard | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| Sproutstake | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| MELLIFERA | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| deNodes | 🔴 - | 🔴 - | 🟡 1.2.0 |
+| Palamar | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| StakeUp | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| Citizen Web3 | 🔴 - | 🔴 - | 🟡 1.2.0 |
+| Stake&Relax 🦥 | 🔴 - | 🔴 - | 🟡 1.2.0 |
+| CroutonDigital | 🟡 1.20.0 | 🔴 - | 🟡 1.2.0 |
+| EmberStake | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| Nodes.Guru | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| shield-crypto | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| L0vd | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| Validatus | 🟡 1.20.2 | 🔴 - | 🟡 1.2.1 |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
-| Grand Valley | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
+| Grand Valley | 🔴 - | 🔴 - | 🟡 1.2.1 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | 🔴 - | 🟢 3.0.2 | 🟢 1.3.0 |
+| itrocket | 🔴 - | 🔴 - | 🟢 1.3.0 |
 | LoserBoy | 🔴 - | 🔴 - | 🔴 - |
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | 🔴 - | 🟡 2.5.4 | 🟡 1.1.0 |
-| Wavefive | 🔴 - | 🟡 2.5.4 | 🟡 1.2.1 |
-| Mandragora | 🔴 - | 🔴 - | 🔴 - |
-| VallidatorVN | 🔴 - | 🟡 2.5.4 | 🟢 1.3.0 |
+| papadritta | 🔴 - | 🔴 - | 🟡 1.1.0 |
+| Wavefive | 🔴 - | 🔴 - | 🟡 1.2.1 |
+| VallidatorVN | 🔴 - | 🔴 - | 🟢 1.3.0 |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
-| KonsorTech | 🔴 - | 🔴 - | 🔴 - |
-| P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 2.5.4 | 🔴 - |
-| NODERS | 🔴 - | 🟡 3.0.1 | 🟢 1.3.0 |
+| NODERS | 🔴 - | 🔴 - | 🟢 1.3.0 |
 
 ## 🏠🔥 Housefire (testnet)
 
