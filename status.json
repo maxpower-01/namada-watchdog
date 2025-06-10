@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2025-06-10T08:17:44.391364+00:00Z",
-    "script_end_time": "2025-06-10T08:19:26.558816+00:00Z",
+    "script_start_time": "2025-06-10T12:24:53.222478+00:00Z",
+    "script_end_time": "2025-06-10T12:27:05.602484+00:00Z",
     "latest_versions": {
         "interface": "1.25.0",
         "indexer": "3.0.2",
@@ -11,6 +11,12 @@
         {
             "network": "namada",
             "interface": [
+                {
+                    "team": "Heliax",
+                    "discord": "-",
+                    "url": "https://www.namadillo.app",
+                    "version": "1.24.0"
+                },
                 {
                     "team": "TuDudes",
                     "discord": "sirouk",
@@ -160,12 +166,6 @@
                     "discord": "validatorvn",
                     "url": "https://namadillo.validatorvn.com",
                     "version": "n/a"
-                },
-                {
-                    "team": "-",
-                    "discord": "-",
-                    "url": "https://www.namadillo.app",
-                    "version": "1.24.0"
                 },
                 {
                     "team": "papadritta",
