@@ -35,7 +35,7 @@
 | VallidatorVN | 🔴 - | 🟢 3.2.0 | 🟢 1.3.0 |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
-| P2P.org | 🔴 - | 🔴 - | 🔴 - |
+| P2P.org | 🔴 - | 🟡 3.1.0 | 🔴 - |
 | Coverlet | 🔴 - | 🟢 3.2.0 | 🔴 - |
 | NODERS | 🔴 - | 🟡 3.0.2 | 🔴 - |
 
