@@ -1,36 +1,36 @@
 # 🟡 namada-watchdog - Interface
 
 ## 🚀 Namada (mainnet)
-- Latest Block Height - 2506195 *(This block height was recorded when this file was generated and may be outdated later.)*
+- Latest Block Height - 2508000 *(This block height was recorded when this file was generated and may be outdated later.)*
 
 | Team | Namadillo | CometBFT | Indexer | MASP Indexer |
 |-|-|-|-|-|
-| Heliax | [https://www.namadillo.app](https://www.namadillo.app) | 🟢 2506174 | 🟢 2506174 | 🟢 2506174 |
-| TuDudes | [https://interface.namada.tududes.com](https://interface.namada.tududes.com) | 🟢 2506175 | 🟢 2506174 | 🟢 2506175 |
-| 5ElementsNodes | [https://namadillo.5elementsnodes.com](https://namadillo.5elementsnodes.com) | 🟢 2506175 | 🟢 2506175 | 🟢 2506175 |
-| Hadesguard | [https://interface.hadesguard.tech](https://interface.hadesguard.tech) | 🟢 2506175 | 🟢 2506175 | 🟢 2506175 |
-| Sproutstake | [https://namada-interface.sproutstake.space](https://namada-interface.sproutstake.space) | 🟢 2506176 | 🟢 2506176 | 🟢 2506176 |
-| MELLIFERA | [https://namadillo.mellifera.network](https://namadillo.mellifera.network) | 🟢 2506177 | 🟢 2506177 | 🟢 2506177 |
-| deNodes | [https://namadillo.denodes.xyz](https://namadillo.denodes.xyz) | 🟢 2506177 | 🟢 2506177 | 🟢 2506177 |
-| Palamar | [https://namada-interface.palamar.io](https://namada-interface.palamar.io) | 🟢 2506178 | 🟢 2506178 | 🟢 2506177 |
-| StakeUp | [https://namadillo.namada.stakeup.tech](https://namadillo.namada.stakeup.tech) | 🟢 2506178 | 🟢 2506178 | 🟢 2506178 |
-| Citizen Web3 | [https://namadillo.citizenweb3.com](https://namadillo.citizenweb3.com) | 🟢 2506179 | 🟢 2506179 | 🟢 2506179 |
+| Heliax | [https://www.namadillo.app](https://www.namadillo.app) | 🟢 2507976 | 🟢 2507976 | 🟢 2507976 |
+| TuDudes | [https://interface.namada.tududes.com](https://interface.namada.tududes.com) | 🟢 2507976 | 🟢 2507976 | 🟢 2507976 |
+| 5ElementsNodes | [https://namadillo.5elementsnodes.com](https://namadillo.5elementsnodes.com) | 🟢 2507977 | 🟢 2507977 | 🟢 2507977 |
+| Hadesguard | [https://interface.hadesguard.tech](https://interface.hadesguard.tech) | 🟢 2507977 | 🟢 2507977 | 🟢 2507977 |
+| Sproutstake | [https://namada-interface.sproutstake.space](https://namada-interface.sproutstake.space) | 🟢 2507978 | 🟢 2507978 | 🟢 2507978 |
+| MELLIFERA | [https://namadillo.mellifera.network](https://namadillo.mellifera.network) | 🟢 2507979 | 🟢 2507979 | 🟢 2507979 |
+| deNodes | [https://namadillo.denodes.xyz](https://namadillo.denodes.xyz) | 🟢 2507980 | 🟢 2507980 | 🟢 2507979 |
+| Palamar | [https://namada-interface.palamar.io](https://namada-interface.palamar.io) | 🟢 2507980 | 🟢 2507980 | 🟢 2507980 |
+| StakeUp | [https://namadillo.namada.stakeup.tech](https://namadillo.namada.stakeup.tech) | 🟢 2507981 | 🟢 2507981 | 🟢 2507981 |
+| Citizen Web3 | [https://namadillo.citizenweb3.com](https://namadillo.citizenweb3.com) | 🟢 2507982 | 🟢 2507982 | 🟢 2507982 |
 | Stake&Relax 🦥 | [https://namadillo.stakeandrelax.net](https://namadillo.stakeandrelax.net) | 🔴 - | 🔴 - | 🔴 - |
-| CroutonDigital | [https://namadillo.crouton.digital](https://namadillo.crouton.digital) | 🟢 2506185 | 🟢 2506185 | 🟢 2506185 |
-| EmberStake | [https://namadillo.emberstake.xyz](https://namadillo.emberstake.xyz) | 🟢 2506185 | 🟢 2506185 | 🟢 2506185 |
-| Nodes.Guru | [https://namada-interface.nodes.guru](https://namada-interface.nodes.guru) | 🟢 2506186 | 🟢 2506186 | 🟢 2506186 |
-| shield-crypto | [https://namadillo.shield-crypto.com](https://namadillo.shield-crypto.com) | 🟢 2506186 | 🟢 2506186 | 🟢 2506186 |
-| L0vd | [https://namadillo.l0vd.com](https://namadillo.l0vd.com) | 🟢 2506187 | 🟢 2506187 | 🟢 2506187 |
-| Validatus | [https://namadillo.namada.validatus.com](https://namadillo.namada.validatus.com) | 🟢 2506188 | 🟢 2506188 | 🟢 2506188 |
-| OriginStake | [https://app.namada.cc](https://app.namada.cc) | 🟢 2506188 | 🟢 2506188 | 🟢 2506188 |
-| Grand Valley | [https://valley-of-namadillo.grandvalleys.com](https://valley-of-namadillo.grandvalleys.com) | 🟢 2506189 | 🟢 2506188 | 🟢 2506189 |
+| CroutonDigital | [https://namadillo.crouton.digital](https://namadillo.crouton.digital) | 🟢 2507988 | 🟢 2507988 | 🟢 2507988 |
+| EmberStake | [https://namadillo.emberstake.xyz](https://namadillo.emberstake.xyz) | 🟢 2507989 | 🟢 2507989 | 🟢 2507989 |
+| Nodes.Guru | [https://namada-interface.nodes.guru](https://namada-interface.nodes.guru) | 🟢 2507989 | 🟢 2507989 | 🟢 2507989 |
+| shield-crypto | [https://namadillo.shield-crypto.com](https://namadillo.shield-crypto.com) | 🟢 2507990 | 🟢 2507990 | 🟢 2507990 |
+| L0vd | [https://namadillo.l0vd.com](https://namadillo.l0vd.com) | 🟢 2507991 | 🟢 2507990 | 🟢 2507991 |
+| Validatus | [https://namadillo.namada.validatus.com](https://namadillo.namada.validatus.com) | 🟢 2507992 | 🟢 2507992 | 🟢 2507992 |
+| OriginStake | [https://app.namada.cc](https://app.namada.cc) | 🟢 2507992 | 🟢 2507992 | 🟢 2507992 |
+| Grand Valley | [https://valley-of-namadillo.grandvalleys.com](https://valley-of-namadillo.grandvalleys.com) | 🟢 2507993 | 🟢 2507993 | 🟢 2507993 |
 | MurphyNode | [https://namadillo.murphynode.net](https://namadillo.murphynode.net) | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | [https://namadillo.itrocket.net](https://namadillo.itrocket.net) | 🟢 2506191 | 🟢 2506191 | 🟢 2506191 |
-| LoserBoy | [https://interface.loserboy.xyz](https://interface.loserboy.xyz) | 🟢 2506192 | 🟢 2506191 | 🟢 2506191 |
-| MekongLabs | [https://namadillo.pwa.mekonglabs.xyz](https://namadillo.pwa.mekonglabs.xyz) | 🟢 2506192 | 🟢 2506192 | 🟢 2506192 |
-| max-02 | [https://namadillo.net](https://namadillo.net) | 🟢 2506193 | 🟢 2506193 | 🟢 2506193 |
+| itrocket | [https://namadillo.itrocket.net](https://namadillo.itrocket.net) | 🟢 2507996 | 🟢 2507995 | 🟢 2507995 |
+| LoserBoy | [https://interface.loserboy.xyz](https://interface.loserboy.xyz) | 🟢 2507996 | 🟢 2507996 | 🟢 2507996 |
+| MekongLabs | [https://namadillo.pwa.mekonglabs.xyz](https://namadillo.pwa.mekonglabs.xyz) | 🟢 2507997 | 🟢 2507997 | 🟢 2507997 |
+| max-02 | [https://namadillo.net](https://namadillo.net) | 🟢 2507998 | 🟢 2507998 | 🟢 2507998 |
 | ValidatorVN | [https://namadillo.validatorvn.com](https://namadillo.validatorvn.com) | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | [https://ui.papadritta.com](https://ui.papadritta.com) | 🟢 2506195 | 🟢 2506195 | 🟢 2506195 |
+| papadritta | [https://ui.papadritta.com](https://ui.papadritta.com) | 🟢 2508000 | 🟢 2508000 | 🟢 2508000 |
 
 ## 🏠🔥 Housefire (testnet)
 - Latest Block Height - 2024961 *(This block height was recorded when this file was generated and may be outdated later.)*
