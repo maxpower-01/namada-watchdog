@@ -27,7 +27,7 @@
 | itrocket | 🟢 1.31.4 | 🟢 3.3.4 | 🟢 1.3.0 |
 | LoserBoy | 🟢 1.31.4 | 🔴 - | 🔴 - |
 | MekongLabs | 🟡 1.29.0 | 🔴 - | 🔴 - |
-| max-02 | 🔴 - | 🔴 - | 🔴 - |
+| max-02 | 🟢 1.31.4 | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | papadritta | 🟢 1.31.4 | 🟢 3.3.4 | 🟢 1.3.0 |
 | Wavefive | 🔴 - | 🟢 3.3.4 | 🟢 1.3.0 |
@@ -43,7 +43,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| EmberStake | 🔴 - | 🔴 - | 🔴 - |
+| EmberStake | 🟡 1.28.0 | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
 | deNodes | 🟢 1.31.4 | 🟢 3.3.4 | 🟢 1.3.0 |
