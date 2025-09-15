@@ -30,6 +30,7 @@
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | papadritta | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
+| Cosmic Validator | 🔴 - | 🟡 3.1.0 | 🟡 1.3.0 |
 | Wavefive | 🔴 - | 🟡 3.3.4 | 🟡 1.3.0 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🟡 3.3.4 | 🔴 - |
