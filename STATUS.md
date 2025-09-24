@@ -18,7 +18,7 @@
 | CroutonDigital | 🟡 1.31.2 | 🟡 3.3.4 | 🟡 1.3.0 |
 | EmberStake | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | Nodes.Guru | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
-| shield-crypto | 🔴 - | 🔴 - | 🔴 - |
+| shield-crypto | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | L0vd | 🔴 - | 🟡 3.2.0 | 🟡 1.3.0 |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🟢 1.31.4 | 🔴 - | 🔴 - |
@@ -35,7 +35,7 @@
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
-| KonsorTech | 🔴 - | 🟡 3.3.4 | 🔴 - |
+| KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | Coverlet | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
