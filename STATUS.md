@@ -8,7 +8,7 @@
 | TuDudes | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | 5ElementsNodes | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | Hadesguard | 🟡 1.31.2 | 🔴 - | 🔴 - |
-| Sproutstake | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
+| Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | MELLIFERA | 🟡 1.31.2 | 🟡 3.3.4 | 🟡 1.3.0 |
 | deNodes | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | Palamar | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
@@ -45,7 +45,7 @@
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
 | EmberStake | 🟡 1.28.0 | 🔴 - | 🔴 - |
-| Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
+| Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
 | deNodes | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | max-03 | 🔴 - | 🔴 - | 🔴 - |
