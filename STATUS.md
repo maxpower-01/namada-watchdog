@@ -35,7 +35,7 @@
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
-| KonsorTech | 🔴 - | 🔴 - | 🔴 - |
+| KonsorTech | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | P2P.org | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | Coverlet | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
