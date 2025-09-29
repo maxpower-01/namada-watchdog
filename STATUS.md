@@ -54,7 +54,7 @@
 | papadritta | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | Natsai | 🔴 - | 🔴 - | 🔴 - |
 | laliola | 🔴 - | 🔴 - | 🔴 - |
-| MELLIFERA | 🟡 1.27.0 | 🔴 - | 🟡 1.3.0 |
+| MELLIFERA | 🟡 1.27.0 | 🟡 3.2.0 | 🟡 1.3.0 |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
 | Coverlet | 🔴 - | 🔴 - | 🔴 - |
