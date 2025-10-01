@@ -33,7 +33,7 @@
 | Cosmic Validator | 🔴 - | 🟡 3.1.0 | 🟡 1.3.0 |
 | Wavefive | 🔴 - | 🟡 3.3.4 | 🟡 1.3.0 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
-| VallidatorVN | 🔴 - | 🟡 3.3.4 | 🔴 - |
+| VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🟡 3.3.4 | 🔴 - |
 | P2P.org | 🔴 - | 🟡 3.3.4 | 🔴 - |
