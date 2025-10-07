@@ -5,7 +5,7 @@
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
 | Heliax | 🟢 1.31.4 | 🔴 - | 🔴 - |
-| TuDudes | 🟢 1.31.4 | 🟡 3.3.4 | 🔴 - |
+| TuDudes | 🟢 1.31.4 | 🟡 3.3.4 | 🟢 1.4.6 |
 | 5ElementsNodes | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
 | Hadesguard | 🟡 1.31.2 | 🔴 - | 🔴 - |
 | Sproutstake | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
@@ -22,7 +22,7 @@
 | L0vd | 🔴 - | 🟡 3.2.0 | 🟡 1.3.0 |
 | Validatus | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.3.0 |
 | OriginStake | 🟢 1.31.4 | 🔴 - | 🔴 - |
-| Grand Valley | 🔴 - | 🟡 3.3.4 | 🟡 1.4.4 |
+| Grand Valley | 🔴 - | 🟡 3.3.4 | 🟢 1.4.6 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
 | LoserBoy | 🟢 1.31.4 | 🔴 - | 🔴 - |
