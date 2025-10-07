@@ -18,11 +18,11 @@
 | CroutonDigital | 🟡 1.31.2 | 🟡 3.3.4 | 🟡 1.3.0 |
 | EmberStake | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
 | Nodes.Guru | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
-| shield-crypto | 🟢 1.31.4 | 🔴 - | 🔴 - |
+| shield-crypto | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
 | L0vd | 🔴 - | 🟡 3.2.0 | 🟡 1.3.0 |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🟢 1.31.4 | 🔴 - | 🔴 - |
-| Grand Valley | 🔴 - | 🔴 - | 🔴 - |
+| Grand Valley | 🔴 - | 🟡 3.3.4 | 🟡 1.4.4 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
 | LoserBoy | 🟢 1.31.4 | 🔴 - | 🔴 - |
@@ -45,7 +45,7 @@
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
-| Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
+| Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
 | deNodes | 🟢 1.31.4 | 🟡 3.3.4 | 🟡 1.4.4 |
 | max-03 | 🔴 - | 🔴 - | 🔴 - |
