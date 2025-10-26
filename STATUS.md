@@ -29,7 +29,7 @@
 | MekongLabs | 🟡 1.31.4 | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | 🟡 1.31.4 | 🟢 4.1.0 | 🟡 1.4.6 |
+| papadritta | 🟢 1.32.1 | 🟢 4.1.0 | 🟡 1.4.6 |
 | Cosmic Validator | 🔴 - | 🟡 3.1.0 | 🟡 1.3.0 |
 | Wavefive | 🔴 - | 🟡 3.3.4 | 🟡 1.4.6 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
