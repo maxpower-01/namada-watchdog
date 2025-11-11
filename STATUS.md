@@ -31,7 +31,7 @@
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | papadritta | 🟢 1.32.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | Cosmic Validator | 🔴 - | 🟡 3.1.0 | 🟡 1.3.0 |
-| Wavefive | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
+| Wavefive | 🔴 - | 🔴 - | 🟢 1.4.7 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
