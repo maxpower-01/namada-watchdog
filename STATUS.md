@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | TuDudes | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
 | 5ElementsNodes | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
 | Hadesguard | 🟡 1.31.2 | 🔴 - | 🔴 - |
@@ -12,7 +12,7 @@
 | MELLIFERA | 🟡 1.31.2 | 🟡 3.3.4 | 🟡 1.3.0 |
 | deNodes | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
-| StakeUp | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
+| StakeUp | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | Citizen Web3 | 🟡 1.32.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | Stake&Relax 🦥 | 🔴 - | 🔴 - | 🔴 - |
 | CroutonDigital | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
@@ -24,7 +24,7 @@
 | OriginStake | 🟡 1.31.4 | 🔴 - | 🔴 - |
 | Grand Valley | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | 🔴 - | 🟢 4.1.0 | 🟢 1.4.7 |
+| itrocket | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | LoserBoy | 🟡 1.31.4 | 🔴 - | 🔴 - |
 | MekongLabs | 🟡 1.32.1 | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
@@ -44,7 +44,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟡 1.32.1 | 🟢 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟡 1.28.0 | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
 | Citizen Web3 | 🟡 1.32.1 | 🟢 4.1.0 | 🟢 1.4.7 |
