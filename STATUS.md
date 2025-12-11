@@ -44,7 +44,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
 | EmberStake | 🟡 1.28.0 | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
 | Citizen Web3 | 🟡 1.32.1 | 🟡 4.1.0 | 🟢 1.4.7 |
