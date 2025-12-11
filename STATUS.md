@@ -18,7 +18,7 @@
 | CroutonDigital | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Nodes.Guru | 🟡 1.32.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| shield-crypto | 🟢 6.6.1 | 🔴 - | 🔴 - |
+| shield-crypto | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
 | L0vd | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🟡 1.31.4 | 🔴 - | 🔴 - |
@@ -44,7 +44,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
 | EmberStake | 🟡 1.28.0 | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
 | Citizen Web3 | 🟡 1.32.1 | 🟡 4.1.0 | 🟢 1.4.7 |
