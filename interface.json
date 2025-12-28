@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2025-12-27T20:12:09.926303+00:00Z",
-    "script_end_time": "2025-12-27T20:18:13.832778+00:00Z",
+    "script_start_time": "2025-12-28T01:02:46.628422+00:00Z",
+    "script_end_time": "2025-12-28T01:09:10.090619+00:00Z",
     "latest_versions": {
         "interface": "1.33.0",
         "indexer": "4.1.3",
@@ -26,19 +26,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.net",
-                            "latest_block_height": "4822768"
+                            "latest_block_height": "4825268"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.net",
-                            "latest_block_height": "4822767"
+                            "latest_block_height": "4825268"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.net",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -57,19 +57,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.tududes.com:443",
-                            "latest_block_height": "4822768"
+                            "latest_block_height": "4825267"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.tududes.com:443",
-                            "latest_block_height": "4822768"
+                            "latest_block_height": "4825266"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.tududes.com:443",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -88,19 +88,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc-namada.5elementsnodes.com",
-                            "latest_block_height": "4822768"
+                            "latest_block_height": "4825269"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://index2-namada.5elementsnodes.com",
-                            "latest_block_height": "4822768"
+                            "latest_block_height": "4825269"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp2-namada.5elementsnodes.com",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -119,19 +119,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.hadesguard.tech",
-                            "latest_block_height": "4822769"
+                            "latest_block_height": "4825269"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.tududes.com",
-                            "latest_block_height": "4822768"
+                            "latest_block_height": "4825266"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.tududes.com",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -193,19 +193,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.denodes.xyz",
-                            "latest_block_height": "4822775"
+                            "latest_block_height": "4825276"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-indexer.denodes.xyz",
-                            "latest_block_height": "4822775"
+                            "latest_block_height": "4825276"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-indexer.denodes.xyz",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -236,19 +236,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.stakeup.tech",
-                            "latest_block_height": "4822778"
+                            "latest_block_height": "4825278"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.stakeup.tech",
-                            "latest_block_height": "4822778"
+                            "latest_block_height": "4825278"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer.namada.stakeup.tech",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -267,7 +267,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "4822778"
+                            "latest_block_height": "4825279"
                         },
                         {
                             "version": "4.1.0",
@@ -279,7 +279,7 @@
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer.namada.citizenweb3.com",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -298,7 +298,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.stakeandrelax.net:443",
-                            "latest_block_height": "4805237"
+                            "latest_block_height": "4807081"
                         },
                         {
                             "version": "n/a",
@@ -360,19 +360,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.emberstake.xyz",
-                            "latest_block_height": "4822782"
+                            "latest_block_height": "4825283"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-idx.emberstake.xyz",
-                            "latest_block_height": "4822782"
+                            "latest_block_height": "4825282"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-idx.emberstake.xyz",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -391,19 +391,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.nodes.guru:443",
-                            "latest_block_height": "4822782"
+                            "latest_block_height": "4825283"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-indexer.nodes.guru:443",
-                            "latest_block_height": "4822782"
+                            "latest_block_height": "4825283"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp.nodes.guru:443",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -422,19 +422,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-public-rpc.shield-crypto.com",
-                            "latest_block_height": "4822783"
+                            "latest_block_height": "4825284"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-indexer.shield-crypto.com",
-                            "latest_block_height": "4822782"
+                            "latest_block_height": "4825283"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-public-masp.shield-crypto.com",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -477,19 +477,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.itrocket.net:443",
-                            "latest_block_height": "4822788"
+                            "latest_block_height": "4825289"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.tududes.com:443",
-                            "latest_block_height": "4822784"
+                            "latest_block_height": "4825287"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.tududes.com:443",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -508,19 +508,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://lightnode-rpc-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "4822788"
+                            "latest_block_height": "4825289"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "4822788"
+                            "latest_block_height": "4825289"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -551,19 +551,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.itrocket.net:443",
-                            "latest_block_height": "4822790"
+                            "latest_block_height": "4825291"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-mainnet-indexer.itrocket.net:443",
-                            "latest_block_height": "4822790"
+                            "latest_block_height": "4825291"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-indexer.itrocket.net:443",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -594,19 +594,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.emberstake.xyz",
-                            "latest_block_height": "4822793"
+                            "latest_block_height": "4825294"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-idx.emberstake.xyz",
-                            "latest_block_height": "4822793"
+                            "latest_block_height": "4825294"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://namada-masp-idx.emberstake.xyz",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 },
@@ -649,19 +649,19 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.papadritta.com",
-                            "latest_block_height": "4822799"
+                            "latest_block_height": "4825300"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.papadritta.com",
-                            "latest_block_height": "4822798"
+                            "latest_block_height": "4825300"
                         },
                         {
                             "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp-indexer.papadritta.com",
-                            "latest_block_height": "4822702"
+                            "latest_block_height": "4825097"
                         }
                     ]
                 }
@@ -685,13 +685,13 @@
                             "namada_version": "201.0.6",
                             "service": "rpc",
                             "url": "https://rpc.testnet.namada.net",
-                            "latest_block_height": "3874583"
+                            "latest_block_height": "3876598"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.testnet.namada.net",
-                            "latest_block_height": "3874583"
+                            "latest_block_height": "3876598"
                         },
                         {
                             "version": "1.4.7",
@@ -759,7 +759,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-housefire.citizenweb3.com",
-                            "latest_block_height": "3874588"
+                            "latest_block_height": "3876604"
                         },
                         {
                             "version": "4.1.0",
@@ -814,13 +814,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.housefire.tududes.com:443",
-                            "latest_block_height": "3874591"
+                            "latest_block_height": "3876608"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.housefire.tududes.com:443",
-                            "latest_block_height": "3874591"
+                            "latest_block_height": "3876608"
                         },
                         {
                             "version": "1.4.7",
@@ -876,13 +876,13 @@
                             "namada_version": "201.0.6",
                             "service": "rpc",
                             "url": "https://housefire.rpc.papadritta.com",
-                            "latest_block_height": "3874595"
+                            "latest_block_height": "3876612"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://housefire.indexer.papadritta.com",
-                            "latest_block_height": "3874595"
+                            "latest_block_height": "3876612"
                         },
                         {
                             "version": "1.4.7",
