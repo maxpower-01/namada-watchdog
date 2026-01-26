@@ -26,7 +26,7 @@
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | LoserBoy | 🔴 - | 🔴 - | 🔴 - |
-| MekongLabs | 🟡 1.32.1 | 🔴 - | 🔴 - |
+| MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | papadritta | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
