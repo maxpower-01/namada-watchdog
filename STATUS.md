@@ -7,7 +7,7 @@
 | Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | TuDudes | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | 5ElementsNodes | 🟢 1.33.0 | 🟡 4.1.0 | 🟢 1.4.7 |
-| Hadesguard | 🔴 - | 🔴 - | 🔴 - |
+| Hadesguard | 🟡 1.31.2 | 🔴 - | 🔴 - |
 | Sproutstake | 🟡 1.31.4 | 🟡 3.3.4 | 🔴 - |
 | MELLIFERA | 🔴 - | 🔴 - | 🔴 - |
 | deNodes | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
@@ -15,7 +15,7 @@
 | StakeUp | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
-| CroutonDigital | 🔴 - | 🔴 - | 🔴 - |
+| CroutonDigital | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
 | shield-crypto | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
@@ -31,7 +31,7 @@
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | papadritta | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Cosmic Validator | 🔴 - | 🟡 3.1.0 | 🟡 1.3.0 |
-| Wavefive | 🔴 - | 🔴 - | 🟢 1.4.7 |
+| Wavefive | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
