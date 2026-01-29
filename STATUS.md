@@ -37,7 +37,7 @@
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| Coverlet | 🔴 - | 🔴 - | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
