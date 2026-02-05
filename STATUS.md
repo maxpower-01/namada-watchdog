@@ -13,18 +13,18 @@
 | deNodes | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
 | CroutonDigital | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
-| EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| EmberStake | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
 | shield-crypto | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | L0vd | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
-| OriginStake | 🟡 1.31.4 | 🔴 - | 🔴 - |
+| OriginStake | 🔴 - | 🔴 - | 🔴 - |
 | Grand Valley | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| itrocket | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | LoserBoy | 🔴 - | 🔴 - | 🔴 - |
 | MekongLabs | 🟡 1.32.1 | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
@@ -37,7 +37,7 @@
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| Coverlet | 🔴 - | 🔴 - | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
@@ -47,7 +47,7 @@
 | Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
-| Citizen Web3 | 🟡 1.32.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | deNodes | 🔴 - | 🔴 - | 🔴 - |
 | max-03 | 🔴 - | 🔴 - | 🔴 - |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
