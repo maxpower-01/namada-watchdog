@@ -31,13 +31,13 @@
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | papadritta | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Cosmic Validator | 🔴 - | 🟡 3.1.0 | 🟡 1.3.0 |
-| Wavefive | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
+| Wavefive | 🔴 - | 🟡 4.1.0 | 🔴 - |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| Coverlet | 🔴 - | 🔴 - | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
@@ -47,7 +47,7 @@
 | Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
-| Citizen Web3 | 🟡 1.32.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | deNodes | 🔴 - | 🔴 - | 🔴 - |
 | max-03 | 🔴 - | 🔴 - | 🔴 - |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
