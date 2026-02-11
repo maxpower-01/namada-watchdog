@@ -1,46 +1,46 @@
 # 🟡 namada-watchdog - Interface
 
 ## 🚀 Namada (mainnet)
-- Latest Block Height - 5389321 *(This block height was recorded when this file was generated and may be outdated later.)*
+- Latest Block Height - 5391192 *(This block height was recorded when this file was generated and may be outdated later.)*
 
 | Team | Namadillo | CometBFT | Indexer | MASP Indexer |
 |-|-|-|-|-|
-| Heliax | [https://app.namada.net](https://app.namada.net) | 🟢 5389276 | 🟢 5389276 | 🔴 5386865 |
-| TuDudes | [https://interface.namada.tududes.com](https://interface.namada.tududes.com) | 🟢 5389277 | 🟢 5389277 | 🔴 5386865 |
-| 5ElementsNodes | [https://namadillo.5elementsnodes.com](https://namadillo.5elementsnodes.com) | 🟢 5389277 | 🟢 5389277 | 🔴 5386865 |
+| Heliax | [https://app.namada.net](https://app.namada.net) | 🟢 5391148 | 🟢 5391148 | 🔴 5386865 |
+| TuDudes | [https://interface.namada.tududes.com](https://interface.namada.tududes.com) | 🟢 5391149 | 🟢 5391148 | 🔴 5386865 |
+| 5ElementsNodes | [https://namadillo.5elementsnodes.com](https://namadillo.5elementsnodes.com) | 🟢 5391149 | 🟢 5391149 | 🔴 5386865 |
 | Hadesguard | [https://interface.hadesguard.tech](https://interface.hadesguard.tech) | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | [https://namada-interface.sproutstake.space](https://namada-interface.sproutstake.space) | 🔴 - | 🔴 3738134 | 🔴 - |
 | MELLIFERA | [https://namadillo.mellifera.network](https://namadillo.mellifera.network) | 🔴 - | 🔴 - | 🔴 - |
-| deNodes | [https://namadillo.denodes.xyz](https://namadillo.denodes.xyz) | 🟢 5389284 | 🟢 5389284 | 🔴 5386865 |
+| deNodes | [https://namadillo.denodes.xyz](https://namadillo.denodes.xyz) | 🟢 5391156 | 🟢 5391156 | 🔴 5386865 |
 | Palamar | [https://namada-interface.palamar.io](https://namada-interface.palamar.io) | 🔴 - | 🔴 - | 🔴 - |
-| StakeUp | [https://namadillo.namada.stakeup.tech](https://namadillo.namada.stakeup.tech) | 🟢 5389287 | 🟢 5389287 | 🔴 5386865 |
-| Citizen Web3 | [https://namadillo.citizenweb3.com](https://namadillo.citizenweb3.com) | 🟢 5389288 | 🔴 5338567 | 🔴 5386865 |
-| Stake&Relax 🦥 | [https://namadillo.stakeandrelax.net](https://namadillo.stakeandrelax.net) | 🟢 5389289 | 🔴 - | 🔴 4513329 |
+| StakeUp | [https://namadillo.namada.stakeup.tech](https://namadillo.namada.stakeup.tech) | 🟢 5391159 | 🟢 5391158 | 🔴 5386865 |
+| Citizen Web3 | [https://namadillo.citizenweb3.com](https://namadillo.citizenweb3.com) | 🟢 5391159 | 🔴 5338567 | 🔴 5386865 |
+| Stake&Relax 🦥 | [https://namadillo.stakeandrelax.net](https://namadillo.stakeandrelax.net) | 🟢 5391160 | 🔴 - | 🔴 4513329 |
 | CroutonDigital | [https://namadillo.crouton.digital](https://namadillo.crouton.digital) | 🔴 4514500 | 🔴 4514500 | 🔴 - |
-| EmberStake | [https://namadillo.emberstake.xyz](https://namadillo.emberstake.xyz) | 🟢 5389293 | 🟢 5389293 | 🔴 - |
+| EmberStake | [https://namadillo.emberstake.xyz](https://namadillo.emberstake.xyz) | 🟢 5391164 | 🟢 5391164 | 🔴 - |
 | Nodes.Guru | [https://namada-interface.nodes.guru](https://namada-interface.nodes.guru) | 🔴 - | 🔴 - | 🔴 - |
-| shield-crypto | [https://namadillo.shield-crypto.com](https://namadillo.shield-crypto.com) | 🟢 5389301 | 🟢 5389300 | 🔴 5386865 |
+| shield-crypto | [https://namadillo.shield-crypto.com](https://namadillo.shield-crypto.com) | 🟢 5391172 | 🟢 5391172 | 🔴 5386865 |
 | L0vd | [https://namadillo.l0vd.com](https://namadillo.l0vd.com) | 🔴 - | 🔴 - | 🔴 - |
 | Validatus | [https://namadillo.namada.validatus.com](https://namadillo.namada.validatus.com) | 🔴 - | 🔴 - | 🔴 - |
-| OriginStake | [https://app.namada.cc](https://app.namada.cc) | 🟢 5389306 | 🟢 5389306 | 🔴 5386865 |
-| Grand Valley | [https://valley-of-namadillo.grandvalleys.com](https://valley-of-namadillo.grandvalleys.com) | 🟢 5389307 | 🟢 5389306 | 🔴 5386865 |
+| OriginStake | [https://app.namada.cc](https://app.namada.cc) | 🟢 5391177 | 🟢 5391177 | 🔴 5386865 |
+| Grand Valley | [https://valley-of-namadillo.grandvalleys.com](https://valley-of-namadillo.grandvalleys.com) | 🟢 5391178 | 🟢 5391177 | 🔴 5386865 |
 | MurphyNode | [https://namadillo.murphynode.net](https://namadillo.murphynode.net) | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | [https://namadillo.itrocket.net](https://namadillo.itrocket.net) | 🟢 5389310 | 🟢 5389310 | 🔴 5386865 |
+| itrocket | [https://namadillo.itrocket.net](https://namadillo.itrocket.net) | 🟢 5391180 | 🟢 5391180 | 🔴 5386865 |
 | LoserBoy | [https://interface.loserboy.xyz](https://interface.loserboy.xyz) | 🔴 - | 🔴 - | 🔴 - |
-| MekongLabs | [https://namadillo.pwa.mekonglabs.xyz](https://namadillo.pwa.mekonglabs.xyz) | 🟢 5389316 | 🟢 5389316 | 🔴 - |
+| MekongLabs | [https://namadillo.pwa.mekonglabs.xyz](https://namadillo.pwa.mekonglabs.xyz) | 🟢 5391186 | 🟢 5391186 | 🔴 - |
 | max-02 | [https://namadillo.net](https://namadillo.net) | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | [https://namadillo.validatorvn.com](https://namadillo.validatorvn.com) | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | [https://ui.papadritta.com](https://ui.papadritta.com) | 🟢 5389321 | 🟢 5389321 | 🔴 5386865 |
+| papadritta | [https://ui.papadritta.com](https://ui.papadritta.com) | 🟢 5391192 | 🟢 5391192 | 🔴 5386865 |
 
 ## 🏠🔥 Housefire (testnet)
-- Latest Block Height - 4337253 *(This block height was recorded when this file was generated and may be outdated later.)*
+- Latest Block Height - 4338771 *(This block height was recorded when this file was generated and may be outdated later.)*
 
 | Team | Namadillo | CometBFT | Indexer | MASP Indexer |
 |-|-|-|-|-|
-| Heliax | [https://app.testnet.namada.net](https://app.testnet.namada.net) | 🟢 4337246 | 🟢 4337246 | 🔴 3793457 |
+| Heliax | [https://app.testnet.namada.net](https://app.testnet.namada.net) | 🟢 4338764 | 🟢 4338764 | 🔴 3793457 |
 | EmberStake | [https://namadillo-housefire.emberstake.xyz](https://namadillo-housefire.emberstake.xyz) | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | [https://housefire-interface.sproutstake.space](https://housefire-interface.sproutstake.space) | 🔴 - | 🔴 - | 🔴 - |
-| Citizen Web3 | [https://namadillo-housefire.citizenweb3.com](https://namadillo-housefire.citizenweb3.com) | 🟢 4337253 | 🔴 3586644 | 🔴 - |
+| Citizen Web3 | [https://namadillo-housefire.citizenweb3.com](https://namadillo-housefire.citizenweb3.com) | 🟢 4338771 | 🔴 3586644 | 🔴 - |
 | deNodes | [https://namadillo-housefire.denodes.xyz](https://namadillo-housefire.denodes.xyz) | 🔴 - | 🔴 - | 🔴 - |
 | max-03 | [https://namadillo.housefire.max-03.xyz](https://namadillo.housefire.max-03.xyz) | 🔴 - | 🔴 - | 🔴 - |
 | TuDudes | [https://interface.housefire.tududes.com](https://interface.housefire.tududes.com) | 🔴 - | 🔴 - | 🔴 - |
