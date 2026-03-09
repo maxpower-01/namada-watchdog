@@ -13,7 +13,7 @@
 | deNodes | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
 | CroutonDigital | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
@@ -24,7 +24,7 @@
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
 | Grand Valley | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| itrocket | 🔴 - | 🔴 - | 🔴 - |
 | LoserBoy | 🔴 - | 🔴 - | 🔴 - |
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
