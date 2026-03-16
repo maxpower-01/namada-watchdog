@@ -13,7 +13,7 @@
 | deNodes | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🟡 4.1.0 | 🔴 - |
-| Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
 | CroutonDigital | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
