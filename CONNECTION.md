@@ -1,22 +1,20 @@
 # 🟡 namada-watchdog - Connection
 
 ## 🚀 Namada (mainnet)
-- Total connections - 525
-- Unique IPs (filtered) - 7
+- Total connections - 497
+- Unique IPs (filtered) - 5
 
 | Remote IP | Connections |
 |-----------|-------------|
-| `46.105.223.14` | 13 |
 | `75.119.141.44` | 12 |
-| `217.182.203.161` | 10 |
-| `212.23.222.35` | 10 |
+| `167.235.35.48` | 11 |
+| `65.109.39.125` | 11 |
 | `95.216.65.183` | 10 |
-| `65.108.121.190` | 10 |
 | `136.243.133.109` | 10 |
 
 ## 🏠🔥 Housefire (testnet)
 
-- Total connections - 12
+- Total connections - 5
 - Unique IPs (filtered) - 0
 
 | Remote IP | Connections |
