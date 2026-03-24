@@ -10,7 +10,7 @@
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | MELLIFERA | 🔴 - | 🔴 - | 🔴 - |
-| deNodes | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| deNodes | 🔴 - | 🔴 - | 🔴 - |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🟡 4.1.0 | 🔴 - |
 | Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
