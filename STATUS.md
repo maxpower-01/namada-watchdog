@@ -24,7 +24,7 @@
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
 | Grand Valley | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
-| itrocket | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| itrocket | 🔴 - | 🟡 4.1.0 | 🔴 - |
 | LoserBoy | 🔴 - | 🔴 - | 🔴 - |
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
