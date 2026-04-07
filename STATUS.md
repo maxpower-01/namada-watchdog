@@ -6,7 +6,7 @@
 |-|-|-|-|
 | Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
-| 5ElementsNodes | 🟢 1.33.0 | 🟢 4.1.3 | 🟢 1.4.7 |
+| 5ElementsNodes | 🟢 1.33.0 | 🔴 - | 🟢 1.4.7 |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | MELLIFERA | 🔴 - | 🔴 - | 🔴 - |
