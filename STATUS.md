@@ -18,7 +18,7 @@
 | CroutonDigital | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
-| shield-crypto | 🟢 6.6.1 | 🔴 - | 🔴 - |
+| shield-crypto | 🔴 - | 🔴 - | 🔴 - |
 | L0vd | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
