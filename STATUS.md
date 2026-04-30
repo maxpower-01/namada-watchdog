@@ -22,7 +22,7 @@
 | L0vd | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
-| Grand Valley | 🔴 - | 🟡 4.1.0 | 🟢 1.4.7 |
+| Grand Valley | 🔴 - | 🔴 - | 🔴 - |
 | MurphyNode | 🔴 - | 🔴 - | 🔴 - |
 | itrocket | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | LoserBoy | 🔴 - | 🔴 - | 🔴 - |
