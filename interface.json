@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-05-15T17:20:41.111766+00:00Z",
-    "script_end_time": "2026-05-15T17:31:19.851621+00:00Z",
+    "script_start_time": "2026-05-15T20:50:03.431888+00:00Z",
+    "script_end_time": "2026-05-15T21:01:27.693122+00:00Z",
     "latest_versions": {
         "interface": "1.33.0",
         "indexer": "4.1.3",
@@ -26,13 +26,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.net",
-                            "latest_block_height": "6548596"
+                            "latest_block_height": "6550417"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.net",
-                            "latest_block_height": "6548596"
+                            "latest_block_height": "6550417"
                         },
                         {
                             "version": "1.4.7",
@@ -69,13 +69,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc-namada.5elementsnodes.com",
-                            "latest_block_height": "6548602"
+                            "latest_block_height": "6550423"
                         },
                         {
                             "version": "4.1.3",
                             "service": "indexer",
                             "url": "https://index2-namada.5elementsnodes.com",
-                            "latest_block_height": "6548601"
+                            "latest_block_height": "6550423"
                         },
                         {
                             "version": "1.4.7",
@@ -165,26 +165,7 @@
                     "settings": [
                         {
                             "service": "namada",
-                            "version": "201.0.7"
-                        },
-                        {
-                            "version": "0.37.15",
-                            "namada_version": "201.0.7",
-                            "service": "rpc",
-                            "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "6548614"
-                        },
-                        {
-                            "version": "4.1.0",
-                            "service": "indexer",
-                            "url": "https://indexer.namada.citizenweb3.com",
-                            "latest_block_height": "6548614"
-                        },
-                        {
-                            "version": "1.4.7",
-                            "service": "masp",
-                            "url": "https://masp-indexer.namada.citizenweb3.com",
-                            "latest_block_height": "6547610"
+                            "version": "n/a"
                         }
                     ]
                 },
@@ -203,7 +184,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.stakeandrelax.net:443",
-                            "latest_block_height": "6548614"
+                            "latest_block_height": "6550440"
                         },
                         {
                             "version": "n/a",
@@ -265,13 +246,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.emberstake.xyz",
-                            "latest_block_height": "6548618"
+                            "latest_block_height": "6550444"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-idx.emberstake.xyz",
-                            "latest_block_height": "6548618"
+                            "latest_block_height": "6550444"
                         },
                         {
                             "version": "n/a",
@@ -308,7 +289,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-public-rpc.shield-crypto.com",
-                            "latest_block_height": "6548626"
+                            "latest_block_height": "6550452"
                         },
                         {
                             "version": "n/a",
@@ -375,7 +356,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://lightnode-rpc-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "6548636"
+                            "latest_block_height": "6550463"
                         },
                         {
                             "version": "n/a",
@@ -418,13 +399,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-mainnet-rpc.itrocket.net:443",
-                            "latest_block_height": "6548651"
+                            "latest_block_height": "6550478"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-mainnet-indexer.itrocket.net:443",
-                            "latest_block_height": "6548651"
+                            "latest_block_height": "6550477"
                         },
                         {
                             "version": "1.4.7",
@@ -497,13 +478,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.papadritta.com",
-                            "latest_block_height": "6548657"
+                            "latest_block_height": "6550484"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.papadritta.com",
-                            "latest_block_height": "6548657"
+                            "latest_block_height": "6550484"
                         },
                         {
                             "version": "1.4.7",
