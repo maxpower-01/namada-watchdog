@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🔴 - | 🔴 - |
+| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
 | 5ElementsNodes | 🟢 1.33.0 | 🔴 - | 🔴 - |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
@@ -44,7 +44,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🔴 - | 🔴 - |
+| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
