@@ -46,7 +46,7 @@
 |-|-|-|-|
 | Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
-| Sproutstake | 🔴 - | 🟡 3.2.0 | 🔴 - |
+| Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
 | deNodes | 🔴 - | 🔴 - | 🔴 - |
 | max-03 | 🔴 - | 🔴 - | 🔴 - |
