@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-06-06T16:57:37.746737+00:00Z",
-    "script_end_time": "2026-06-06T17:08:58.125701+00:00Z",
+    "script_start_time": "2026-06-06T20:53:01.915288+00:00Z",
+    "script_end_time": "2026-06-06T21:05:39.759676+00:00Z",
     "latest_versions": {
         "interface": "1.33.0",
         "indexer": "4.1.3",
@@ -26,13 +26,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.net",
-                            "latest_block_height": "6820677"
+                            "latest_block_height": "6822696"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.net",
-                            "latest_block_height": "6820677"
+                            "latest_block_height": "6822696"
                         },
                         {
                             "version": "1.4.7",
@@ -69,7 +69,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc-namada.5elementsnodes.com",
-                            "latest_block_height": "6820683"
+                            "latest_block_height": "6822701"
                         },
                         {
                             "version": "n/a",
@@ -172,13 +172,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "6820699"
+                            "latest_block_height": "6822718"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.citizenweb3.com",
-                            "latest_block_height": "6820699"
+                            "latest_block_height": "6822718"
                         },
                         {
                             "version": "1.4.7",
@@ -203,7 +203,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.stakeandrelax.net:443",
-                            "latest_block_height": "6820700"
+                            "latest_block_height": "6822719"
                         },
                         {
                             "version": "n/a",
@@ -265,13 +265,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.emberstake.xyz",
-                            "latest_block_height": "6820704"
+                            "latest_block_height": "6822723"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://namada-idx.emberstake.xyz",
-                            "latest_block_height": "6820704"
+                            "latest_block_height": "6822723"
                         },
                         {
                             "version": "n/a",
@@ -308,7 +308,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-public-rpc.shield-crypto.com",
-                            "latest_block_height": "6820712"
+                            "latest_block_height": "6822731"
                         },
                         {
                             "version": "4.1.0",
@@ -364,11 +364,30 @@
                     "team": "Grand Valley",
                     "discord": "baconvalley",
                     "url": "https://valley-of-namadillo.grandvalleys.com",
-                    "version": "n/a",
+                    "version": "6.6.1",
                     "settings": [
                         {
                             "service": "namada",
-                            "version": "n/a"
+                            "version": "201.0.7"
+                        },
+                        {
+                            "version": "0.37.16",
+                            "namada_version": "201.0.7",
+                            "service": "rpc",
+                            "url": "https://lightnode-rpc-mainnet-namada.grandvalleys.com",
+                            "latest_block_height": "6822738"
+                        },
+                        {
+                            "version": "n/a",
+                            "service": "indexer",
+                            "url": "https://indexer-mainnet-namada.grandvalleys.com",
+                            "latest_block_height": "n/a"
+                        },
+                        {
+                            "version": "n/a",
+                            "service": "masp",
+                            "url": "https://masp-indexer-mainnet-namada.grandvalleys.com",
+                            "latest_block_height": "n/a"
                         }
                     ]
                 },
@@ -459,13 +478,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.papadritta.com",
-                            "latest_block_height": "6820739"
+                            "latest_block_height": "6822769"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.papadritta.com",
-                            "latest_block_height": "6820739"
+                            "latest_block_height": "6822769"
                         },
                         {
                             "version": "1.4.7",
