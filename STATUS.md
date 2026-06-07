@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
 | 5ElementsNodes | 🟢 1.33.0 | 🔴 - | 🔴 - |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
@@ -13,13 +13,13 @@
 | deNodes | 🔴 - | 🔴 - | 🔴 - |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🔴 - | 🔴 - |
-| Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
-| CroutonDigital | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
+| CroutonDigital | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
+| EmberStake | 🟢 6.6.1 | 🟢 4.1.0 | 🔴 - |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
-| shield-crypto | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| L0vd | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| shield-crypto | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
+| L0vd | 🔴 - | 🟢 4.1.0 | 🔴 - |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
 | Grand Valley | 🔴 - | 🔴 - | 🔴 - |
@@ -29,7 +29,7 @@
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| papadritta | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | Cosmic Validator | 🔴 - | 🔴 - | 🔴 - |
 | Wavefive | 🔴 - | 🔴 - | 🔴 - |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
@@ -37,14 +37,14 @@
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| Coverlet | 🔴 - | 🟢 4.1.0 | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
