@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
 | 5ElementsNodes | 🟢 1.33.0 | 🔴 - | 🔴 - |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
@@ -14,7 +14,7 @@
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
+| Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | CroutonDigital | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
 | EmberStake | 🟢 6.6.1 | 🟡 4.1.0 | 🔴 - |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
@@ -44,7 +44,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Sproutstake | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🔴 - | 🔴 - | 🔴 - |
