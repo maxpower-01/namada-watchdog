@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-06-14T20:58:13.496980+00:00Z",
-    "script_end_time": "2026-06-14T21:13:13.449716+00:00Z",
+    "script_start_time": "2026-06-15T02:40:33.444044+00:00Z",
+    "script_end_time": "2026-06-15T02:54:31.196647+00:00Z",
     "latest_versions": {
         "interface": "1.33.0",
         "indexer": "4.1.3",
@@ -19,26 +19,26 @@
                     "settings": [
                         {
                             "service": "namada",
-                            "version": "n/a"
+                            "version": "201.0.7"
                         },
                         {
-                            "version": "n/a",
-                            "namada_version": "n/a",
+                            "version": "0.37.16",
+                            "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada.net",
-                            "latest_block_height": "n/a"
+                            "latest_block_height": "6925436"
                         },
                         {
-                            "version": "n/a",
+                            "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.net",
-                            "latest_block_height": "n/a"
+                            "latest_block_height": "6826762"
                         },
                         {
-                            "version": "n/a",
+                            "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.namada.net",
-                            "latest_block_height": "n/a"
+                            "latest_block_height": "6919516"
                         }
                     ]
                 },
@@ -69,7 +69,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc-namada.5elementsnodes.com",
-                            "latest_block_height": "6922459"
+                            "latest_block_height": "6925442"
                         },
                         {
                             "version": "n/a",
@@ -172,13 +172,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "6922475"
+                            "latest_block_height": "6925458"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.citizenweb3.com",
-                            "latest_block_height": "6922475"
+                            "latest_block_height": "6925458"
                         },
                         {
                             "version": "1.4.7",
@@ -203,7 +203,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://namada-rpc.stakeandrelax.net:443",
-                            "latest_block_height": "6922476"
+                            "latest_block_height": "6925459"
                         },
                         {
                             "version": "n/a",
@@ -356,7 +356,7 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://lightnode-rpc-mainnet-namada.grandvalleys.com",
-                            "latest_block_height": "6922505"
+                            "latest_block_height": "6925489"
                         },
                         {
                             "version": "n/a",
@@ -459,13 +459,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.papadritta.com",
-                            "latest_block_height": "6922539"
+                            "latest_block_height": "6925521"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.papadritta.com",
-                            "latest_block_height": "6922539"
+                            "latest_block_height": "6925521"
                         },
                         {
                             "version": "n/a",
@@ -488,26 +488,26 @@
                     "settings": [
                         {
                             "service": "namada",
-                            "version": "n/a"
+                            "version": "201.0.6"
                         },
                         {
-                            "version": "n/a",
-                            "namada_version": "n/a",
+                            "version": "0.37.16",
+                            "namada_version": "201.0.6",
                             "service": "rpc",
                             "url": "https://rpc.testnet.namada.net",
-                            "latest_block_height": "n/a"
+                            "latest_block_height": "4624720"
                         },
                         {
-                            "version": "n/a",
+                            "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.testnet.namada.net",
-                            "latest_block_height": "n/a"
+                            "latest_block_height": "4624720"
                         },
                         {
-                            "version": "n/a",
+                            "version": "1.4.7",
                             "service": "masp",
                             "url": "https://masp.testnet.namada.net",
-                            "latest_block_height": "n/a"
+                            "latest_block_height": "3793457"
                         }
                     ]
                 },
