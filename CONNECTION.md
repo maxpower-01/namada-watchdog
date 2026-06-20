@@ -9,7 +9,7 @@
 
 ## 🏠🔥 Housefire (testnet)
 
-- Total connections - 2
+- Total connections - 4
 - Unique IPs (filtered) - 0
 
 | Remote IP | Connections |
