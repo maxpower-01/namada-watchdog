@@ -19,7 +19,7 @@
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
 | shield-crypto | 🟢 6.6.1 | 🔴 - | 🔴 - |
-| L0vd | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| L0vd | 🔴 - | 🔴 - | 🔴 - |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
 | Grand Valley | 🔴 - | 🔴 - | 🔴 - |
