@@ -1,6 +1,6 @@
 {
-  "script_start_time": "2026-07-15T01:17:52.040941+00:00Z",
-  "script_end_time": "2026-07-15T01:18:12.674949+00:00Z",
+  "script_start_time": "2026-07-16T01:27:46.376958+00:00Z",
+  "script_end_time": "2026-07-16T01:28:07.030071+00:00Z",
   "networks": {
     "namada": {
       "network": "namada",
@@ -115,9 +115,14 @@
     },
     "housefire": {
       "network": "housefire",
-      "total_connections": 0,
-      "total_unique_ips": 0,
-      "ip_counts": []
+      "total_connections": 1,
+      "total_unique_ips": 1,
+      "ip_counts": [
+        [
+          "193.34.213.77",
+          1
+        ]
+      ]
     }
   }
 }
