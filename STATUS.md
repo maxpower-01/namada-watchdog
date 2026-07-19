@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
 | 5ElementsNodes | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
@@ -13,7 +13,7 @@
 | deNodes | 🔴 - | 🔴 - | 🔴 - |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🔴 - | 🔴 - |
-| Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
+| Citizen Web3 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
 | CroutonDigital | 🔴 - | 🔴 - | 🔴 - |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
@@ -29,15 +29,11 @@
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| papadritta | 🔴 - | 🔴 - | 🔴 - |
 | Cosmic Validator | 🔴 - | 🔴 - | 🔴 - |
 | Wavefive | 🔴 - | 🔴 - | 🔴 - |
-| Mandragora | 🔴 - | 🔴 - | 🔴 - |
 | VallidatorVN | 🔴 - | 🔴 - | 🔴 - |
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
-| KonsorTech | 🔴 - | 🔴 - | 🔴 - |
-| P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 4.1.0 | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
