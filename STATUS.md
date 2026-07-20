@@ -14,7 +14,7 @@
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🔴 - | 🔴 - |
 | Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟢 1.4.7 |
-| Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🟢 1.4.7 |
+| Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | CroutonDigital | 🔴 - | 🔴 - | 🔴 - |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
