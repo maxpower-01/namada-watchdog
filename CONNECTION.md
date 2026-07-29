@@ -1,7 +1,7 @@
 # 🟡 namada-watchdog - Connection
 
 ## 🚀 Namada (mainnet)
-- Total connections - 98
+- Total connections - 82
 - Unique IPs (filtered) - 0
 
 | Remote IP | Connections |
