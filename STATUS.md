@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🔴 - | 🔴 - |
+| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟡 1.4.7 |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
 | 5ElementsNodes | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
@@ -18,7 +18,7 @@
 | CroutonDigital | 🔴 - | 🔴 - | 🔴 - |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
 | Nodes.Guru | 🔴 - | 🔴 - | 🔴 - |
-| shield-crypto | 🟢 6.6.1 | 🔴 - | 🔴 - |
+| shield-crypto | 🔴 - | 🔴 - | 🔴 - |
 | L0vd | 🔴 - | 🔴 - | 🔴 - |
 | Validatus | 🔴 - | 🔴 - | 🔴 - |
 | OriginStake | 🔴 - | 🔴 - | 🔴 - |
