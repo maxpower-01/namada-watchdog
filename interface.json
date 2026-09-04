@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-09-04T08:17:54.952756+00:00Z",
-    "script_end_time": "2026-09-04T08:31:00.398944+00:00Z",
+    "script_start_time": "2026-09-04T15:22:57.945733+00:00Z",
+    "script_end_time": "2026-09-04T15:35:43.414232+00:00Z",
     "latest_versions": {
         "interface": "1.33.1",
         "indexer": "4.1.3",
@@ -58,11 +58,30 @@
                     "team": "5ElementsNodes",
                     "discord": "h3ll0_friend",
                     "url": "https://namadillo.5elementsnodes.com",
-                    "version": "n/a",
+                    "version": "6.6.1",
                     "settings": [
                         {
                             "service": "namada",
-                            "version": "n/a"
+                            "version": "201.0.7"
+                        },
+                        {
+                            "version": "0.37.16",
+                            "namada_version": "201.0.7",
+                            "service": "rpc",
+                            "url": "https://rpc.namada.net",
+                            "latest_block_height": "7914106"
+                        },
+                        {
+                            "version": "4.1.3",
+                            "service": "indexer",
+                            "url": "https://index2-namada.5elementsnodes.com",
+                            "latest_block_height": "7914106"
+                        },
+                        {
+                            "version": "1.4.7",
+                            "service": "masp",
+                            "url": "https://masp2-namada.5elementsnodes.com",
+                            "latest_block_height": "7914047"
                         }
                     ]
                 },
@@ -153,13 +172,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "7734309"
+                            "latest_block_height": "7736115"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.citizenweb3.com",
-                            "latest_block_height": "7417432"
+                            "latest_block_height": "7417443"
                         },
                         {
                             "version": "1.4.7",
