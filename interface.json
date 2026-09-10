@@ -1,6 +1,6 @@
 {
-    "script_start_time": "2026-09-09T22:04:41.214279+00:00Z",
-    "script_end_time": "2026-09-09T22:17:09.926437+00:00Z",
+    "script_start_time": "2026-09-10T01:59:23.556723+00:00Z",
+    "script_end_time": "2026-09-10T02:11:42.142518+00:00Z",
     "latest_versions": {
         "interface": "1.33.1",
         "indexer": "4.1.3",
@@ -172,13 +172,13 @@
                             "namada_version": "201.0.7",
                             "service": "rpc",
                             "url": "https://rpc.namada-archive.citizenweb3.com",
-                            "latest_block_height": "7764998"
+                            "latest_block_height": "7765714"
                         },
                         {
                             "version": "4.1.0",
                             "service": "indexer",
                             "url": "https://indexer.namada.citizenweb3.com",
-                            "latest_block_height": "7417576"
+                            "latest_block_height": "7417580"
                         },
                         {
                             "version": "1.4.7",
