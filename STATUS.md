@@ -13,7 +13,7 @@
 | deNodes | 🔴 - | 🔴 - | 🔴 - |
 | Palamar | 🔴 - | 🔴 - | 🔴 - |
 | StakeUp | 🔴 - | 🔴 - | 🔴 - |
-| Citizen Web3 | 🔴 - | 🟡 4.1.0 | 🟡 1.4.7 |
+| Citizen Web3 | 🟢 6.6.1 | 🟡 4.1.0 | 🟡 1.4.7 |
 | Stake&Relax 🦥 | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | CroutonDigital | 🔴 - | 🔴 - | 🔴 - |
 | EmberStake | 🔴 - | 🔴 - | 🔴 - |
@@ -37,7 +37,7 @@
 | Architect Nodes | 🔴 - | 🔴 - | 🔴 - |
 | KonsorTech | 🔴 - | 🔴 - | 🔴 - |
 | P2P.org | 🔴 - | 🔴 - | 🔴 - |
-| Coverlet | 🔴 - | 🟡 4.1.0 | 🔴 - |
+| Coverlet | 🔴 - | 🔴 - | 🔴 - |
 | NODERS | 🔴 - | 🔴 - | 🔴 - |
 
 ## 🏠🔥 Housefire (testnet)
