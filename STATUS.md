@@ -4,7 +4,7 @@
 
 | Team | Namadillo | Indexer | MASP Indexer |
 |-|-|-|-|
-| Heliax | 🟢 6.6.1 | 🟢 4.1.0 | 🟢 1.4.7 |
+| Heliax | 🟢 6.6.1 | 🟡 4.1.0 | 🟡 1.4.7 |
 | TuDudes | 🔴 - | 🔴 - | 🔴 - |
 | 5ElementsNodes | 🟢 6.6.1 | 🔴 - | 🔴 - |
 | Hadesguard | 🔴 - | 🔴 - | 🔴 - |
@@ -29,7 +29,7 @@
 | MekongLabs | 🔴 - | 🔴 - | 🔴 - |
 | max-02 | 🔴 - | 🔴 - | 🔴 - |
 | ValidatorVN | 🔴 - | 🔴 - | 🔴 - |
-| papadritta | 🔴 - | 🟢 4.1.0 | 🔴 - |
+| papadritta | 🔴 - | 🟡 4.1.0 | 🔴 - |
 | Cosmic Validator | 🔴 - | 🔴 - | 🔴 - |
 | Wavefive | 🔴 - | 🔴 - | 🔴 - |
 | Mandragora | 🔴 - | 🔴 - | 🔴 - |
